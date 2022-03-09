@@ -2,7 +2,7 @@
 ## Language
 [日本語](#研究)
 
-[English (in preparation)](#Kazuhide_Mimura)
+[English (in preparation)](#Research)
 
 # 研究
 ## 所属
