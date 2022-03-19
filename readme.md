@@ -165,7 +165,7 @@ AtCoder [緑色](https://atcoder.jp/users/mim_afol)
 
 [ディープラーニングG検定](https://www.jdla.org/certificate/general/)　2022#1 合格者
 
-<img src="/images/general2022_1_small_square.png" width="300">
+<img src="/images/general2022_1_small_square.png" width="150">
 
 <br />
 <br />
