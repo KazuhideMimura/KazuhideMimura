@@ -163,8 +163,6 @@
 # プログラミング
 AtCoder [緑色](https://atcoder.jp/users/mim_afol)
 
-    競技プログラミングのコンテストに参加しています（いました？）
-
 [ディープラーニングG検定](https://www.jdla.org/certificate/general/)　2022#1 合格者
 
 <img src="/images/general2022_1_small_square.png" width="150">
@@ -222,3 +220,9 @@ international conference
 
 1. <u><b>Mimura, K.</b></u>, Nakamura, K., Yasukawa, K., Ohta, J., Fujinaga, K., Machida, S. and Kato, Y. Chemostratigraphic correlation of deep-sea sediments in the western North Pacific Ocean and its implication for the origin of the extremely REY-rich mud. Goldschmidt 2016, June 29, 2016 Yokohama, Japan. (Oral)
 </div></details>
+
+<br />
+
+# Programing
+- [AtCoder](https://atcoder.jp/users/mim_afol?lang=en) 
+- Passed [Deep Learning for GENERAL：JDLA Certificate Examination](https://www.jdla.org/en/en-certificate/) (2022#1)
