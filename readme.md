@@ -2,6 +2,13 @@
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=KazuhideMimura&left_color=gray&right_color=blue)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KazuhideMimura&theme=vue)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KazuhideMimura&show_icons=true)
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KazuhideMimura&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+
+
 # Language
 [日本語](#研究)
 
