@@ -1,4 +1,4 @@
-# 見邨 和英 / Kazuhide Mimura
+# Kazuhide Mimura / 見邨 和英
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=KazuhideMimura&left_color=gray&right_color=blue)
 
@@ -15,17 +15,22 @@
   <img alt="trophy" width="800px" src="https://github-profile-trophy.vercel.app/?username=KazuhideMimura&theme=onedark&column=7" />
 </p>
 
-# 研究
+# Research / 研究
 <p align="left"> 
   <a href="research.md"><img alt="Icon1" width="300px" src="images/Icon2.PNG" /></a>
   <a href="kenkyu.md"><img alt="Icon1" width="300px" src="images/Icon1.PNG" /></a>
 </p>
 
+<br/>
 
-# プログラミング
-AtCoder [緑色](https://atcoder.jp/users/mim_afol)
+# Programing / プログラミング
+## Competitive programming / 競技プログラミング
+[AtCoder](https://atcoder.jp/users/mim_afol?lang=en) 
 
-[ディープラーニングG検定](https://www.jdla.org/certificate/general/)　2022#1 合格者
+## Qualifications / 資格
+[Deep Learning for GENERAL](https://www.jdla.org/en/en-certificate/) (2022#1)
+
+(ディープラーニングG検定)
 
 <img src="/images/general2022_1_small_square.png" width="150">
 
@@ -34,5 +39,3 @@ AtCoder [緑色](https://atcoder.jp/users/mim_afol)
 
 
 # Programing
-- [AtCoder](https://atcoder.jp/users/mim_afol?lang=en) 
-- Passed [Deep Learning for GENERAL：JDLA Certificate Examination](https://www.jdla.org/en/en-certificate/) (2022#1)
