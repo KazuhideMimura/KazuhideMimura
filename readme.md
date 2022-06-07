@@ -17,8 +17,8 @@
 
 # Research / 研究
 <p align="left"> 
-  <a href="research.md"><img alt="Icon1" width="300px" src="images/Icon2.PNG" /></a>
-  <a href="kenkyu.md"><img alt="Icon1" width="300px" src="images/Icon1.PNG" /></a>
+  <a href="research.md"><img alt="Icon1" width="150px" src="images/Icon2.PNG" /></a>
+  <a href="kenkyu.md"><img alt="Icon1" width="150px" src="images/Icon1.PNG" /></a>
 </p>
 
 <br/>
