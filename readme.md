@@ -2,12 +2,19 @@
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=KazuhideMimura&left_color=gray&right_color=blue)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KazuhideMimura&theme=vue)
+<p align="center"> 
+  <img alt="Summary" width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KazuhideMimura&theme=vue" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KazuhideMimura&show_icons=true)
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KazuhideMimura&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="center"> 
+  <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KazuhideMimura&layout=compact&show_icons=true&theme=cobalt" />
+  <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=KazuhideMimura&theme=onedark&show_icons=ture" />
+</p>
+
+<p align="center"> 
+  <img alt="trophy" width="80%" src="https://github-profile-trophy.vercel.app/?username=KazuhideMimura&theme=onedark&column=7" />
+</p>
 
 # Language
 [日本語](#研究)
