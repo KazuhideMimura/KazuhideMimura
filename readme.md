@@ -1,4 +1,7 @@
 # 見邨 和英 / Kazuhide Mimura
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=KazuhideMimura&left_color=gray&right_color=blue)
+
 # Language
 [日本語](#研究)
 
