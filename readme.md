@@ -15,8 +15,6 @@
   <img alt="trophy" width="800px" src="https://github-profile-trophy.vercel.app/?username=KazuhideMimura&theme=onedark&column=7" />
 </p>
 
-<a class="twitter-timeline" href="https://twitter.com/KazuhideMimura?ref_src=twsrc%5Etfw">Tweets by KazuhideMimura</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 # Research / 研究
 <p align="left"> 
   <a href="research.md"><img alt="Icon1" width="300px" src="images/Icon2.PNG" /></a>
