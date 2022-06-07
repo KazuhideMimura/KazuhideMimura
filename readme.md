@@ -3,13 +3,12 @@
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=KazuhideMimura&left_color=gray&right_color=blue)
 
 <p align="center"> 
-  <img alt="Summary" width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KazuhideMimura&theme=vue" />
+  <img alt="Summary" width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KazuhideMimura&theme=solarized_dark" />
 </p>
 
-
 <p align="center"> 
-  <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KazuhideMimura&layout=compact&show_icons=true&theme=cobalt" />
-  <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=KazuhideMimura&theme=onedark&show_icons=ture" />
+  <img alt="Top Langs" width="40%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KazuhideMimura&layout=compact&show_icons=true&theme=cobalt" />
+  <img alt="github stats" width="40%" height="180px" src="https://github-readme-stats.vercel.app/api?username=KazuhideMimura&theme=onedark&show_icons=ture" />
 </p>
 
 <p align="center"> 
