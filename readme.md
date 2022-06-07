@@ -2,17 +2,17 @@
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=KazuhideMimura&left_color=gray&right_color=blue)
 
-<p align="center"> 
-  <img alt="Summary" width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KazuhideMimura&theme=solarized_dark" />
+<p align="left"> 
+  <img alt="Summary" width="800px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KazuhideMimura&theme=solarized_dark" />
 </p>
 
-<p align="center"> 
-  <img alt="Top Langs" width="40%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KazuhideMimura&layout=compact&show_icons=true&theme=cobalt" />
-  <img alt="github stats" width="40%" height="180px" src="https://github-readme-stats.vercel.app/api?username=KazuhideMimura&theme=onedark&show_icons=ture" />
+<p align="left"> 
+  <img alt="Top Langs" width="360px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KazuhideMimura&layout=compact&show_icons=true&theme=cobalt" />
+  <img alt="github stats" width="440px" height="200px" src="https://github-readme-stats.vercel.app/api?username=KazuhideMimura&theme=onedark&show_icons=ture" />
 </p>
 
-<p align="center"> 
-  <img alt="trophy" width="80%" src="https://github-profile-trophy.vercel.app/?username=KazuhideMimura&theme=onedark&column=7" />
+<p align="left"> 
+  <img alt="trophy" width="800px" src="https://github-profile-trophy.vercel.app/?username=KazuhideMimura&theme=onedark&column=7" />
 </p>
 
 # Language
