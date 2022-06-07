@@ -15,11 +15,6 @@
   <img alt="trophy" width="800px" src="https://github-profile-trophy.vercel.app/?username=KazuhideMimura&theme=onedark&column=7" />
 </p>
 
-# Language
-[日本語](#研究)
-
-[English](#Research)
-
 # 研究
 <p align="left"> 
   <a href="research.md"><img alt="Icon1" width="300px" src="images/Icon2.PNG" /></a>
