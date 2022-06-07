@@ -21,13 +21,17 @@
 [English](#Research)
 
 # 研究
+
+<a href="https://orcid.org/0000-0002-6411-0378">
+<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="20" height="20" />
+https://orcid.org/0000-0002-6411-0378
+</a>
+
 ## 所属
 - [千葉工業大学次世代海洋資源研究センター](https://www.it-chiba.ac.jp/orceng/)
 　主任研究員
 - [東京大学大学院工学研究科エネルギー・資源フロンティアセンター](http://www.frcer.t.u-tokyo.ac.jp/)
 　客員研究員
- 
- [ORCiD](https://orcid.org/0000-0002-6411-0378)
 
 ## テーマ
 <details><summary><span style="font-size: 130%">
@@ -187,12 +191,15 @@ AtCoder [緑色](https://atcoder.jp/users/mim_afol)
 <br />
 
 # Research
+<a href="https://orcid.org/0000-0002-6411-0378">
+<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="20" height="20" />
+https://orcid.org/0000-0002-6411-0378
+</a>
+
 ## Positions
 - [Ocean Resources Research Center for Next Generation, Chiba Institute of Technology](https://www.it-chiba.ac.jp/orceng/) Chief Research Scientist
 - [Frontier Research Center for Energy and Resources, School of Engineering](http://www.frcer.t.u-tokyo.ac.jp/) Visiting researcher
  
- [ORCiD](https://orcid.org/0000-0002-6411-0378)
-
 ## Topics
 (In Preparation...)
 
