@@ -59,7 +59,7 @@ To reduce these obstacles, we are conducting research on the automated detectioi
 
 ## Works
 <details><summary><span style="font-size: 130%">
-peer-reviewed paper
+peer-reviewed papers
 </span></summary><div>
 
 1. Yasukawa, K., Kino, S., Ohta, J., Azami, K., Tanaka, E., <u><b>Mimura, K.</b></u>, Fujinaga, K., Nakamura, K., Kato, Y.　Stratigraphic Variations of Fe–Mn Micronodules and Implications for the Formation of Extremely REY-Rich Mud in the Western North Pacific Ocean. Minerals, 11, 270, 2021.
