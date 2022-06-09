@@ -10,7 +10,7 @@
 ## Research Topics
 ### Elucidating genesis of deep-sea mud enriched in rare-earth elements ("REY-rich mud")
 <p align="left"> 
-  <img alt="1149" width="800px" src="images/Mimura_et_al_2019_JAES_GraphicalAbstract.png" />
+  <img alt="1149" width="100%" src="images/Mimura_et_al_2019_JAES_GraphicalAbstract.png" />
 </p>
 Reference: Mimura et al. (2019) 
 <a href="https://doi.org/10.1016/j.jseaes.2019.104059"><i>Journal of Asian Earth Sciences</i></a>
@@ -27,7 +27,7 @@ In order to constrain "promising areas", where intensive exploration should be c
 ### Constraining depositional age of pelagic clay using microfossil fish teeth
 
 <p align="left"> 
-  <img alt="ichthyolith" width="800px" src="images/Ichthyoliths.png" />
+  <img alt="ichthyolith" width="100%" src="images/Ichthyoliths.png" />
 </p>
 
 Reference: Mimura et al. (2018) 
