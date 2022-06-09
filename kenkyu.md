@@ -12,7 +12,7 @@
 ## テーマ
 ### 海底鉱物資源「レアアース泥」の成因解明
 <p align="left"> 
-  <img alt="1149" width="800px" src="images/Mimura_et_al_2019_JAES_GraphicalAbstract.png" />
+  <img alt="1149" width="100%" src="images/Mimura_et_al_2019_JAES_GraphicalAbstract.png" />
 </p>
 出典：Mimura et al. (2019) 
 <a href="https://doi.org/10.1016/j.jseaes.2019.104059"><i>Journal of Asian Earth Sciences</i></a>
@@ -29,7 +29,7 @@
 ### 魚類の歯化石「イクチオリス」を用いた深海堆積物の堆積年代決定
 
 <p align="left"> 
-  <img alt="ichthyolith" width="800px" src="images/Ichthyoliths.png" />
+  <img alt="ichthyolith" width="100%" src="images/Ichthyoliths.png" />
 </p>
 
 出典：Mimura et al. (2018) 
