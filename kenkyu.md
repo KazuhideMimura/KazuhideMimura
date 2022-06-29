@@ -4,7 +4,7 @@
 </p>
 
 ## 所属
-- [千葉工業大学次世代海洋資源研究センター](https://www.it-chiba.ac.jp/orceng/)
+- [千葉工業大学次世代海洋資源研究センター](https://orceng-cit.jp/)
 　主任研究員
 - [東京大学大学院工学研究科エネルギー・資源フロンティアセンター](http://www.frcer.t.u-tokyo.ac.jp/)
 　客員研究員
