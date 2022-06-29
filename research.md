@@ -4,7 +4,7 @@
 </p>
 
 ## Positions
-- [Ocean Resources Research Center for Next Generation, Chiba Institute of Technology](https://www.it-chiba.ac.jp/orceng/) Chief Research Scientist
+- [Ocean Resources Research Center for Next Generation, Chiba Institute of Technology](https://orceng-cit.jp/) Chief Research Scientist
 - [Frontier Research Center for Energy and Resources, School of Engineering](http://www.frcer.t.u-tokyo.ac.jp/) Visiting researcher
 
 ## Research Topics
