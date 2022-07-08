@@ -2,6 +2,14 @@
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=KazuhideMimura&left_color=gray&right_color=blue)
 
+# Research / 研究
+<p align="left"> 
+  <a href="research.md"><img alt="Icon1" width="150px" src="images/Icon2.PNG" /></a>
+  <a href="kenkyu.md"><img alt="Icon1" width="150px" src="images/Icon1.PNG" /></a>
+</p>
+<br/>
+
+# Performances in GitHub
 <p align="left"> 
   <img alt="Summary" width="800px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KazuhideMimura&theme=solarized_dark" />
 </p>
@@ -14,14 +22,6 @@
 <p align="left"> 
   <img alt="trophy" width="800px" src="https://github-profile-trophy.vercel.app/?username=KazuhideMimura&theme=onedark&column=7" />
 </p>
-
-# Research / 研究
-<p align="left"> 
-  <a href="research.md"><img alt="Icon1" width="150px" src="images/Icon2.PNG" /></a>
-  <a href="kenkyu.md"><img alt="Icon1" width="150px" src="images/Icon1.PNG" /></a>
-</p>
-
-<br/>
 
 # Programing / プログラミング
 ## Competitive programming / 競技プログラミング
