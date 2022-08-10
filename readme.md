@@ -3,6 +3,13 @@
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=KazuhideMimura&left_color=gray&right_color=blue)
 
 # Research / 研究
+
+See my works in ORCID: 
+<a href="https://orcid.org/0000-0002-6411-0378">
+<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />
+0000-0002-6411-0378
+</a>
+
 <p align="left"> 
   <a href="research.md"><img alt="Icon1" width="150px" src="images/Icon2.PNG" /></a>
   <a href="kenkyu.md"><img alt="Icon1" width="150px" src="images/Icon1.PNG" /></a>
