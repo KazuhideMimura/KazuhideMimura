@@ -35,4 +35,8 @@
 <img src="/images/general2022_1_small_square.png" width="150">
 
 <br />
-<br />
+
+<a class="twitter-moment" 
+data-limit="3"
+href="https://twitter.com/KazuhideMimura?ref_src=twsrc%5Etfw">Tweets by KazuhideMimura</a> 
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
