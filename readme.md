@@ -11,8 +11,8 @@ ORCID:
 </a>
 
 <p align="left"> 
-  <a href="research.md"><img alt="Icon1" width="150px" src="images/Icon2.PNG" /></a>
-  <a href="kenkyu.md"><img alt="Icon1" width="150px" src="images/Icon1.PNG" /></a>
+  <a href="https://kazuhidemimura.github.io/"><img alt="Icon1" width="150px" src="images/Icon2.PNG" /></a>
+  <a href="https://kazuhidemimura.github.io/jp/"><img alt="Icon1" width="150px" src="images/Icon1.PNG" /></a>
 </p>
 <br/>
 
