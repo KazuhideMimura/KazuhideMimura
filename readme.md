@@ -1,7 +1,7 @@
 # Kazuhide Mimura / 見邨 和英
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=KazuhideMimura&left_color=gray&right_color=blue)
-![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FKazuhideMimura)
+![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https://twitter.com/KazuhideMimura)
 
 # Research / 研究
 
