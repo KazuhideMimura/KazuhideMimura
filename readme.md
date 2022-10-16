@@ -2,7 +2,9 @@
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=KazuhideMimura&left_color=gray&right_color=blue)
 
-Tweets by <a class="twitter-timeline" href="https://twitter.com/KazuhideMimura">@KazuhideMimura</a>
+<a href="https://twitter.com/KazuhideMimura">
+<img alt="Twitter" src="/images/2021 Twitter logo - blue.png" width="16" height="16" />
+Tweets by @KazuhideMimura</a>
 
 # Research / 研究
 
