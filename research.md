@@ -68,40 +68,52 @@ https://orcid.org/0000-0002-6411-0378
 peer-reviewed papers
 </span></summary><div>
 
-1. Yasukawa, K., Kino, S., Ohta, J., Azami, K., Tanaka, E., <u><b>Mimura, K.</b></u>, Fujinaga, K., Nakamura, K., Kato, Y.　Stratigraphic Variations of Fe–Mn Micronodules and Implications for the Formation of Extremely REY-Rich Mud in the Western North Pacific Ocean. Minerals, 11, 270, 2021.
+1. 1. <u><b>Mimura, K.</b></u>, Nakamura, K., Takao, K., Yasukawa, K. and Kato, Y.: Automated Detection of Hydrothermal Emission Signatures from Multi-Beam Echo Sounder Images Using Deep Learning. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, https://doi.org/10.1109/JSTARS.2023.3247467.
+  
+2. <u><b>Mimura, K.</b></u> and Nakamura, K.: Datasets for training and validating a deep learning-based system to detect microfossil fish teeth from slide images. Data in Brief, 47, 108940. https://doi.org/10.1016/j.dib.2023.108940, 2023.
+   
+3. Tanaka, E., <u><b>Mimura, K.</b></u>, Nakamura, K., Ohta, J., Yasukawa, K. and Kato, Y.: Rare-earth elements in deep-sea sediments in the South Pacific Gyre: Source materials and resource potentials. Geochemistry, Geophysics, Geosystems, https://doi.org/10.1029/2022GC010681, 2023.
+   
+4. <u><b>Mimura, K.</b></u>, Minabe, S., Nakamura, K., Yasukawa, K., Ohta, J. and Kato, Y.: Automated detection of microfossil fish teeth from slide images using combined deep learning models. Applied Computing and Geosciences, 16, 100092, https://doi.org/10.1016/j.acags.2022.100092, 2022.
 
-1. Yasukawa, K., Kino, S., Azami, K., Tanaka, E., <u><b>Mimura, K.</b></u>, Ohta, J., Fujinaga, K., Nakamura, K., Kato, Y. Geochemical features of Fe-Mn micronodules in deep-sea sediments of the western North Pacific Ocean: Potential for co-product metal extraction from REY-rich mud. Ore Geology Reviews 127, 103805, 2020.
+5. Yasukawa, K., Kino, S., Ohta, J., Azami, K., Tanaka, E., <u><b>Mimura, K.</b></u>, Fujinaga, K., Nakamura, K., Kato, Y.　Stratigraphic Variations of Fe–Mn Micronodules and Implications for the Formation of Extremely REY-Rich Mud in the Western North Pacific Ocean. Minerals, 11, 270, 2021.
 
-1. Tanaka, E., Nakamura, K., Yasukawa, K., <u><b>Mimura, K.</b></u>, Fujinaga, K., Ohta, J., Iijima, K., Nozaki, T., Machida, S., Kato, Y. Chemostratigraphic correlations of deep-sea sediments in the western North Pacific Ocean: A new constraint on the distribution of mud highly enriched in rare-earth elements. Minerals 10, 575, 2020.
+6. Yasukawa, K., Kino, S., Azami, K., Tanaka, E., <u><b>Mimura, K.</b></u>, Ohta, J., Fujinaga, K., Nakamura, K., Kato, Y. Geochemical features of Fe-Mn micronodules in deep-sea sediments of the western North Pacific Ocean: Potential for co-product metal extraction from REY-rich mud. Ore Geology Reviews 127, 103805, 2020.
 
-1. Ohta, J., Yasukawa, K., Nozaki, T., Takaya, Y., <u><b>Mimura, K.</b></u>, Fujinaga, K., Nakamura, K., Usui, Y., Kimura, J.-I., Chang, Q., Kato, Y. Fish proliferation and rare-earth deposition by topographically induced upwelling at the late Eocene cooling event. Scientific Reports 10, 9896, 2020.
+7. Tanaka, E., Nakamura, K., Yasukawa, K., <u><b>Mimura, K.</b></u>, Fujinaga, K., Ohta, J., Iijima, K., Nozaki, T., Machida, S., Kato, Y. Chemostratigraphic correlations of deep-sea sediments in the western North Pacific Ocean: A new constraint on the distribution of mud highly enriched in rare-earth elements. Minerals 10, 575, 2020.
 
-1. Tanaka, E., Nakamura, K., Yasukawa, K., <u><b>Mimura, K.</b></u>, Fujinaga, K., Iijima, K., Nozaki, T., Kato, Y. Chemostratigraphy of deep-sea sediments in the western North Pacific Ocean: Implications for genesis of mud highly enriched in rare-earth elements and yttrium. Ore Geology Reviews 119, 103392, 2020.
+8. Ohta, J., Yasukawa, K., Nozaki, T., Takaya, Y., <u><b>Mimura, K.</b></u>, Fujinaga, K., Nakamura, K., Usui, Y., Kimura, J.-I., Chang, Q., Kato, Y. Fish proliferation and rare-earth deposition by topographically induced upwelling at the late Eocene cooling event. Scientific Reports 10, 9896, 2020.
 
-1. <u><b>Mimura, K.</b></u>, Nakamura, K., Yasukawa, K., Machida, S., Ohta, J., Fujinaga, K., Kato, Y. Significant impacts of pelagic clay on average chemical composition of subducting sediments: New insights from discovery of extremely rare-earth elements and yttrium-rich mud at Ocean Drilling Program Site 1149 in the western North Pacific Ocean. Journal of Asian Earth Sciences 186, 104059, 2019.
+9.  Tanaka, E., Nakamura, K., Yasukawa, K., <u><b>Mimura, K.</b></u>, Fujinaga, K., Iijima, K., Nozaki, T., Kato, Y. Chemostratigraphy of deep-sea sediments in the western North Pacific Ocean: Implications for genesis of mud highly enriched in rare-earth elements and yttrium. Ore Geology Reviews 119, 103392, 2020.
 
-1. Yasukawa, K., Ohta, J., <u><b>Mimura, K.</b></u>, Tanaka, E., Takaya, Y., Usui, Y., Fujinaga, K., Machida, S., Nozaki, T., Iijima, K., Nakamura, K. and Kato, Y. A new and prospective resource for scandium: Evidence from the geochemistry of deep-sea sediment in the western North Pacific Ocean. Ore Geology Reviews 102, 260-267, 2018.
+10. <u><b>Mimura, K.</b></u>, Nakamura, K., Yasukawa, K., Machida, S., Ohta, J., Fujinaga, K., Kato, Y. Significant impacts of pelagic clay on average chemical composition of subducting sediments: New insights from discovery of extremely rare-earth elements and yttrium-rich mud at Ocean Drilling Program Site 1149 in the western North Pacific Ocean. Journal of Asian Earth Sciences 186, 104059, 2019.
+
+11. Yasukawa, K., Ohta, J., <u><b>Mimura, K.</b></u>, Tanaka, E., Takaya, Y., Usui, Y., Fujinaga, K., Machida, S., Nozaki, T., Iijima, K., Nakamura, K. and Kato, Y. A new and prospective resource for scandium: Evidence from the geochemistry of deep-sea sediment in the western North Pacific Ocean. Ore Geology Reviews 102, 260-267, 2018.
 </div></details>
 
 <details><summary><span style="font-size: 130%">
 Presentations at International Conferences
 </span></summary><div>
 
-1. Yasukawa, K., Kino, S., Ohta, J., Azami, K., Tanaka, E., <u><b>Mimura, K.</b></u>, Fujinaga, K., Nakamura, K. and Kato, Y.: Stratigraphic variations in geochemistry and morphology of Fe–Mn micronodules: Implications for the formation process of extremely REY-rich mud in the western North Pacific Ocean. Goldschmidt Virtual 2021 (Online, July 2021)
+1. Kuwahara, Y., Yasukawa, K., Ohta, J., Yano, M., <u><b>Mimura, K.</b></u>, Tanaka E., Fujinaga, K., Nakamura, K., Kato, Y.: The Paleogene Seawater Os Isotope Record of the Indian Ocean: Implications for the chemical weathering feedback against Eocene Hyperthermal Events. 12th In­ter­na­tional Con­fer­ence on Cli­matic and Bi­otic Events of the Pa­leo­gene (CBEP12) (Bremen, Germany, Poster,  Aug. 25, 2022)
+   
+2. Yasukawa, K., Kino, S., Ohta, J., Azami, K, Tanaka, E., Mimura, K., Fujinaga, K., Nakamura, K. and Kato, Y.: Geochemistry and morphology of Fe-Mn micro nodules in REY-rich mud: Implications for the formation process of highly promising deep-sea REY resource. 3rd Edition of World Congress on Geology & Earth Science (Barcelona, Spain, Sep. 22, 2022) [Invited]  
 
-1. Ohta, J., Yasukawa, K., Nozaki, T., Takaya, Y., <u><b>Mimura, K.</b></u>, Fujinaga, K., Nakamura, K., Usui, Y., Kimura, J.-I., Chang, Q., Kato, Y. Fish debris and rare-earth deposition event in the latest Eocene revealed by osmium isotope stratigraphy. Goldschmidt 2020. June 23, 2020. (Online) 
+3. Yasukawa, K., Kino, S., Ohta, J., Azami, K., Tanaka, E., <u><b>Mimura, K.</b></u>, Fujinaga, K., Nakamura, K. and Kato, Y.: Stratigraphic variations in geochemistry and morphology of Fe–Mn micronodules: Implications for the formation process of extremely REY-rich mud in the western North Pacific Ocean. Goldschmidt Virtual 2021 (Online, July 2021)
 
-1. <u><b>Mimura, K.</b></u>, Yamamoto K., Nakamura K., Yasukawa, K., Ohta J., Fujinaga K., Machida S., Usui Y. and Kato Y. Origin of REY-rich mud in the North Pacific Ocean constrained from bulk geochemistry and depositional age. Goldschmidt 2019. August 22, 2019, Barcelona, Spain. (Poster)
+4. Ohta, J., Yasukawa, K., Nozaki, T., Takaya, Y., <u><b>Mimura, K.</b></u>, Fujinaga, K., Nakamura, K., Usui, Y., Kimura, J.-I., Chang, Q., Kato, Y. Fish debris and rare-earth deposition event in the latest Eocene revealed by osmium isotope stratigraphy. Goldschmidt 2020. June 23, 2020. (Online) 
 
-1. Kato Y., Yasukawa, K., Nakamura K., Fujinaga K., Takaya Y., Ohta J., Tanaka E., <u><b>Mimura, K.</b></u>, Iijima K., Machida S. and Nozaki T. REY-rich mud: An overview from scientific and engineering perspectives. Goldschmidt 2019. August 22, 2019, Barcelona, Spain. (Oral)
+5. <u><b>Mimura, K.</b></u>, Yamamoto K., Nakamura K., Yasukawa, K., Ohta J., Fujinaga K., Machida S., Usui Y. and Kato Y. Origin of REY-rich mud in the North Pacific Ocean constrained from bulk geochemistry and depositional age. Goldschmidt 2019. August 22, 2019, Barcelona, Spain. (Poster)
 
-1. <u><b>Mimura, K.</b></u>, Yamamoto, K., Nakamura, K., Yasukawa, K., Ohta, J., Fujinaga, K., Machida, S. and Kato, Y. Chemostratigraphy and depositional ages of pelagic clay in the North Pacific Ocean: Implications for the origin of REY-rich mud. Goldschmidt 2018, August 16, 2018, Boston, USA. (Poster)
+6. Kato Y., Yasukawa, K., Nakamura K., Fujinaga K., Takaya Y., Ohta J., Tanaka E., <u><b>Mimura, K.</b></u>, Iijima K., Machida S. and Nozaki T. REY-rich mud: An overview from scientific and engineering perspectives. Goldschmidt 2019. August 22, 2019, Barcelona, Spain. (Oral)
 
-1. Yasukawa, K., Kawarabata, C., Tanaka, E., <u><b>Mimura, K.</b></u>, Nakamura, K., Fujinaga, K. and Kato, Y. A quantitative constraint on the distribution of extremely REY-rich mud based on mass balance calculations of Nd in the ocean. Goldschmidt 2018, August 17, 2018, Boston, USA. (Oral)
+7. <u><b>Mimura, K.</b></u>, Yamamoto, K., Nakamura, K., Yasukawa, K., Ohta, J., Fujinaga, K., Machida, S. and Kato, Y. Chemostratigraphy and depositional ages of pelagic clay in the North Pacific Ocean: Implications for the origin of REY-rich mud. Goldschmidt 2018, August 16, 2018, Boston, USA. (Poster)
 
-1. <u><b>Mimura, K.</b></u>, Yamamoto, K., Nakamura, K., Yasukawa, K., Ohta, J., Fujinaga, K., Machida, S. and Kato, Y. A chemostratigraphic correlation of pelagic clay in the North Pacific Ocean. Goldschmidt 2017, August 16, 2017 Paris, France. (Poster)
+8. Yasukawa, K., Kawarabata, C., Tanaka, E., <u><b>Mimura, K.</b></u>, Nakamura, K., Fujinaga, K. and Kato, Y. A quantitative constraint on the distribution of extremely REY-rich mud based on mass balance calculations of Nd in the ocean. Goldschmidt 2018, August 17, 2018, Boston, USA. (Oral)
 
-1. <u><b>Mimura, K.</b></u>, Nakamura, K., Yasukawa, K., Ohta, J., Fujinaga, K., Machida, S. and Kato, Y. Chemostratigraphic correlation of deep-sea sediments in the western North Pacific Ocean and its implication for the origin of the extremely REY-rich mud. Goldschmidt 2016, June 29, 2016 Yokohama, Japan. (Oral)
+9.  <u><b>Mimura, K.</b></u>, Yamamoto, K., Nakamura, K., Yasukawa, K., Ohta, J., Fujinaga, K., Machida, S. and Kato, Y. A chemostratigraphic correlation of pelagic clay in the North Pacific Ocean. Goldschmidt 2017, August 16, 2017 Paris, France. (Poster)
+
+10. <u><b>Mimura, K.</b></u>, Nakamura, K., Yasukawa, K., Ohta, J., Fujinaga, K., Machida, S. and Kato, Y. Chemostratigraphic correlation of deep-sea sediments in the western North Pacific Ocean and its implication for the origin of the extremely REY-rich mud. Goldschmidt 2016, June 29, 2016 Yokohama, Japan. (Oral)
 </div></details>
 
 <br/>
