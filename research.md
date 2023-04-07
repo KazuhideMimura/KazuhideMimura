@@ -68,7 +68,7 @@ https://orcid.org/0000-0002-6411-0378
 peer-reviewed papers
 </span></summary><div>
 
-1. 1. <u><b>Mimura, K.</b></u>, Nakamura, K., Takao, K., Yasukawa, K. and Kato, Y.: Automated Detection of Hydrothermal Emission Signatures from Multi-Beam Echo Sounder Images Using Deep Learning. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, https://doi.org/10.1109/JSTARS.2023.3247467.
+1. <u><b>Mimura, K.</b></u>, Nakamura, K., Takao, K., Yasukawa, K. and Kato, Y.: Automated Detection of Hydrothermal Emission Signatures from Multi-Beam Echo Sounder Images Using Deep Learning. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, https://doi.org/10.1109/JSTARS.2023.3247467.
   
 2. <u><b>Mimura, K.</b></u> and Nakamura, K.: Datasets for training and validating a deep learning-based system to detect microfossil fish teeth from slide images. Data in Brief, 47, 108940. https://doi.org/10.1016/j.dib.2023.108940, 2023.
    
