@@ -69,7 +69,7 @@ https://orcid.org/0000-0002-6411-0378
 査読付き論文
 </span></summary><div>
 
-1. <u><b>Mimura, K.</b></u>, Nakamura, K., Takao, K., Yasukawa, K. and Kato, Y.: Automated Detection of Hydrothermal Emission Signatures from Multi-Beam Echo Sounder Images Using Deep Learning. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 16, 2703-2710, https://doi.org/10.1109/JSTARS.2023.3247467.
+1. <u><b>Mimura, K.</b></u>, Nakamura, K., Takao, K., Yasukawa, K. and Kato, Y.: Automated Detection of Hydrothermal Emission Signatures from Multi-Beam Echo Sounder Images Using Deep Learning. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 16, 2703-2710, https://doi.org/10.1109/JSTARS.2023.3247467, 2023.
 
 2. Tanaka, E., <u><b>Mimura, K.</b></u>, Nakamura, K., Ohta, J., Yasukawa, K. and Kato, Y.*: Rare-earth elements in deep-sea sediments in the South Pacific Gyre: Source materials and resource potentials. Geochemistry, Geophysics, Geosystems, 24, e2022GC010681. https://doi.org/10.1029/2022GC010681, 2023. 
   
