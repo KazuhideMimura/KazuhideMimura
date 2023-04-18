@@ -69,29 +69,31 @@ https://orcid.org/0000-0002-6411-0378
 査読付き論文
 </span></summary><div>
 
+1. Cendi,  D. P. D., Agangi, A., Idrus, A., Chelle-Michou, C., Lai, C., Ishida, M., Guillong, M., Gonzáles-Álvarez, I., Takahashi, R., Yano, M., <u><b>Mimura, K.</b></u>, Ohta, J., Kato, Y., Simbolon, D. R., Xia, X. The age and origin of the Ruwai polymetallic skarn deposit, Indonesia: evidence of Cretaceous mineralization in the Central Borneo metallogenic belt. Economic Geology (accepted).
+
 1. <u><b>Mimura, K.</b></u>, Nakamura, K., Takao, K., Yasukawa, K. and Kato, Y.: Automated Detection of Hydrothermal Emission Signatures from Multi-Beam Echo Sounder Images Using Deep Learning. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 16, 2703-2710, https://doi.org/10.1109/JSTARS.2023.3247467.
 
-2. Tanaka, E., <u><b>Mimura, K.</b></u>, Nakamura, K., Ohta, J., Yasukawa, K. and Kato, Y.*: Rare-earth elements in deep-sea sediments in the South Pacific Gyre: Source materials and resource potentials. Geochemistry, Geophysics, Geosystems, 24, e2022GC010681. https://doi.org/10.1029/2022GC010681, 2023. 
+1. Tanaka, E., <u><b>Mimura, K.</b></u>, Nakamura, K., Ohta, J., Yasukawa, K. and Kato, Y.*: Rare-earth elements in deep-sea sediments in the South Pacific Gyre: Source materials and resource potentials. Geochemistry, Geophysics, Geosystems, 24, e2022GC010681. https://doi.org/10.1029/2022GC010681, 2023. 
   
-3. <u><b>Mimura, K.</b></u> and Nakamura, K.: Datasets for training and validating a deep learning-based system to detect microfossil fish teeth from slide images. Data in Brief, 47, 108940. https://doi.org/10.1016/j.dib.2023.108940, 2023.
+1. <u><b>Mimura, K.</b></u> and Nakamura, K.: Datasets for training and validating a deep learning-based system to detect microfossil fish teeth from slide images. Data in Brief, 47, 108940. https://doi.org/10.1016/j.dib.2023.108940, 2023.
    
-4. Tanaka, E., <u><b>Mimura, K.</b></u>, Nakamura, K., Ohta, J., Yasukawa, K. and Kato, Y.: Rare-earth elements in deep-sea sediments in the South Pacific Gyre: Source materials and resource potentials. Geochemistry, Geophysics, Geosystems, https://doi.org/10.1029/2022GC010681, 2023.
+1. Tanaka, E., <u><b>Mimura, K.</b></u>, Nakamura, K., Ohta, J., Yasukawa, K. and Kato, Y.: Rare-earth elements in deep-sea sediments in the South Pacific Gyre: Source materials and resource potentials. Geochemistry, Geophysics, Geosystems, https://doi.org/10.1029/2022GC010681, 2023.
    
-5. <u><b>Mimura, K.</b></u>, Minabe, S., Nakamura, K., Yasukawa, K., Ohta, J. and Kato, Y.: Automated detection of microfossil fish teeth from slide images using combined deep learning models. Applied Computing and Geosciences, 16, 100092, https://doi.org/10.1016/j.acags.2022.100092, 2022.
+1. <u><b>Mimura, K.</b></u>, Minabe, S., Nakamura, K., Yasukawa, K., Ohta, J. and Kato, Y.: Automated detection of microfossil fish teeth from slide images using combined deep learning models. Applied Computing and Geosciences, 16, 100092, https://doi.org/10.1016/j.acags.2022.100092, 2022.
    
-6. Yasukawa, K., Kino, S., Ohta, J., Azami, K., Tanaka, E., <u><b>Mimura, K.</b></u>, Fujinaga, K., Nakamura, K., Kato, Y.　Stratigraphic Variations of Fe–Mn Micronodules and Implications for the Formation of Extremely REY-Rich Mud in the Western North Pacific Ocean. Minerals, 11, 270, 2021.
+1. Yasukawa, K., Kino, S., Ohta, J., Azami, K., Tanaka, E., <u><b>Mimura, K.</b></u>, Fujinaga, K., Nakamura, K., Kato, Y.　Stratigraphic Variations of Fe–Mn Micronodules and Implications for the Formation of Extremely REY-Rich Mud in the Western North Pacific Ocean. Minerals, 11, 270, 2021.
 
-7. Yasukawa, K., Kino, S., Azami, K., Tanaka, E., <u><b>Mimura, K.</b></u>, Ohta, J., Fujinaga, K., Nakamura, K., Kato, Y. Geochemical features of Fe-Mn micronodules in deep-sea sediments of the western North Pacific Ocean: Potential for co-product metal extraction from REY-rich mud. Ore Geology Reviews 127, 103805, 2020.
+1. Yasukawa, K., Kino, S., Azami, K., Tanaka, E., <u><b>Mimura, K.</b></u>, Ohta, J., Fujinaga, K., Nakamura, K., Kato, Y. Geochemical features of Fe-Mn micronodules in deep-sea sediments of the western North Pacific Ocean: Potential for co-product metal extraction from REY-rich mud. Ore Geology Reviews 127, 103805, 2020.
 
-8. Tanaka, E., Nakamura, K., Yasukawa, K., <u><b>Mimura, K.</b></u>, Fujinaga, K., Ohta, J., Iijima, K., Nozaki, T., Machida, S., Kato, Y. Chemostratigraphic correlations of deep-sea sediments in the western North Pacific Ocean: A new constraint on the distribution of mud highly enriched in rare-earth elements. Minerals 10, 575, 2020.
+1.  Tanaka, E., Nakamura, K., Yasukawa, K., <u><b>Mimura, K.</b></u>, Fujinaga, K., Ohta, J., Iijima, K., Nozaki, T., Machida, S., Kato, Y. Chemostratigraphic correlations of deep-sea sediments in the western North Pacific Ocean: A new constraint on the distribution of mud highly enriched in rare-earth elements. Minerals 10, 575, 2020.
 
-9.  Ohta, J., Yasukawa, K., Nozaki, T., Takaya, Y., <u><b>Mimura, K.</b></u>, Fujinaga, K., Nakamura, K., Usui, Y., Kimura, J.-I., Chang, Q., Kato, Y. Fish proliferation and rare-earth deposition by topographically induced upwelling at the late Eocene cooling event. Scientific Reports 10, 9896, 2020.
+1.  Ohta, J., Yasukawa, K., Nozaki, T., Takaya, Y., <u><b>Mimura, K.</b></u>, Fujinaga, K., Nakamura, K., Usui, Y., Kimura, J.-I., Chang, Q., Kato, Y. Fish proliferation and rare-earth deposition by topographically induced upwelling at the late Eocene cooling event. Scientific Reports 10, 9896, 2020.
 
-10. Tanaka, E., Nakamura, K., Yasukawa, K., <u><b>Mimura, K.</b></u>, Fujinaga, K., Iijima, K., Nozaki, T., Kato, Y. Chemostratigraphy of deep-sea sediments in the western North Pacific Ocean: Implications for genesis of mud highly enriched in rare-earth elements and yttrium. Ore Geology Reviews 119, 103392, 2020.
+1. Tanaka, E., Nakamura, K., Yasukawa, K., <u><b>Mimura, K.</b></u>, Fujinaga, K., Iijima, K., Nozaki, T., Kato, Y. Chemostratigraphy of deep-sea sediments in the western North Pacific Ocean: Implications for genesis of mud highly enriched in rare-earth elements and yttrium. Ore Geology Reviews 119, 103392, 2020.
 
-11. <u><b>Mimura, K.</b></u>, Nakamura, K., Yasukawa, K., Machida, S., Ohta, J., Fujinaga, K., Kato, Y. Significant impacts of pelagic clay on average chemical composition of subducting sediments: New insights from discovery of extremely rare-earth elements and yttrium-rich mud at Ocean Drilling Program Site 1149 in the western North Pacific Ocean. Journal of Asian Earth Sciences 186, 104059, 2019.
+1. <u><b>Mimura, K.</b></u>, Nakamura, K., Yasukawa, K., Machida, S., Ohta, J., Fujinaga, K., Kato, Y. Significant impacts of pelagic clay on average chemical composition of subducting sediments: New insights from discovery of extremely rare-earth elements and yttrium-rich mud at Ocean Drilling Program Site 1149 in the western North Pacific Ocean. Journal of Asian Earth Sciences 186, 104059, 2019.
 
-12. Yasukawa, K., Ohta, J., <u><b>Mimura, K.</b></u>, Tanaka, E., Takaya, Y., Usui, Y., Fujinaga, K., Machida, S., Nozaki, T., Iijima, K., Nakamura, K. and Kato, Y. A new and prospective resource for scandium: Evidence from the geochemistry of deep-sea sediment in the western North Pacific Ocean. Ore Geology Reviews 102, 260-267, 2018.
+1. Yasukawa, K., Ohta, J., <u><b>Mimura, K.</b></u>, Tanaka, E., Takaya, Y., Usui, Y., Fujinaga, K., Machida, S., Nozaki, T., Iijima, K., Nakamura, K. and Kato, Y. A new and prospective resource for scandium: Evidence from the geochemistry of deep-sea sediment in the western North Pacific Ocean. Ore Geology Reviews 102, 260-267, 2018.
 </div></details>
 
 <details><summary><span style="font-size: 130%">
