@@ -14,7 +14,7 @@ ORCID:
 0000-0002-6411-0378
 </a>
 
-<a href="/blob/main/research.md">研究業績 / Works</a>
+<a href="/research.md">研究業績 / Works</a>
 
 https://github.com/KazuhideMimura/KazuhideMimura/blob/main/research.md
 
