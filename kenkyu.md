@@ -100,7 +100,7 @@ https://orcid.org/0000-0002-6411-0378
 
 1. Kuwahara, Y., Yasukawa, K., Ohta, J., Yano, M., <u><b>Mimura, K.</b></u>, Tanaka E., Fujinaga, K., Nakamura, K., Kato, Y.: The Paleogene Seawater Os Isotope Record of the Indian Ocean: Implications for the chemical weathering feedback against Eocene Hyperthermal Events. 12th In­ter­na­tional Con­fer­ence on Cli­matic and Bi­otic Events of the Pa­leo­gene (CBEP12) (Bremen, Germany, Poster,  Aug. 25, 2022)
    
-2. Yasukawa, K., Kino, S., Ohta, J., Azami, K, Tanaka, E., Mimura, K., Fujinaga, K., Nakamura, K. and Kato, Y.: Geochemistry and morphology of Fe-Mn micro nodules in REY-rich mud: Implications for the formation process of highly promising deep-sea REY resource. 3rd Edition of World Congress on Geology & Earth Science (Barcelona, Spain, Sep. 22, 2022) [Invited]  
+2. Yasukawa, K., Kino, S., Ohta, J., Azami, K, Tanaka, E., <u><b>Mimura, K.</b></u>, Fujinaga, K., Nakamura, K. and Kato, Y.: Geochemistry and morphology of Fe-Mn micro nodules in REY-rich mud: Implications for the formation process of highly promising deep-sea REY resource. 3rd Edition of World Congress on Geology & Earth Science (Barcelona, Spain, Sep. 22, 2022) [Invited]  
 
 3. Yasukawa, K., Kino, S., Ohta, J., Azami, K., Tanaka, E., <u><b>Mimura, K.</b></u>, Fujinaga, K., Nakamura, K. and Kato, Y.: Stratigraphic variations in geochemistry and morphology of Fe–Mn micronodules: Implications for the formation process of extremely REY-rich mud in the western North Pacific Ocean. Goldschmidt Virtual 2021 (Online, July 2021)
 
