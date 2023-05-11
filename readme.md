@@ -14,6 +14,10 @@ ORCID:
 0000-0002-6411-0378
 </a>
 
+<a href="/blob/main/research.md">研究業績 / Works</a>
+
+https://github.com/KazuhideMimura/KazuhideMimura/blob/main/research.md
+
 <p align="left"> 
   <a href="https://kazuhidemimura.github.io/"><img alt="Icon1" width="150px" src="images/Icon2.PNG" /></a>
   <a href="https://kazuhidemimura.github.io/jp/"><img alt="Icon1" width="150px" src="images/Icon1.PNG" /></a>
