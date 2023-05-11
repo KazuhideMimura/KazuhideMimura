@@ -10,12 +10,12 @@ https://orcid.org/0000-0002-6411-0378
 
 <br>
 
-<!-- # 目次 / Contents
-- <a href="#査読付き論文 / Peer-reviewed Papers">査読付き論文 / Peer-reviewed Papers</a>
-- <a href="#国際学会での発表 / Presentations at International Conferences">国際学会での発表 / Presentations at International Conferences</a>
-- <a href="#国内学会での発表（筆頭）">国内学会での発表（筆頭）</a>
-- <a href="#国内学会での発表（共著）">国内学会での発表（共著）</a>
-- <a href="#受賞歴">受賞歴</a> -->
+# 目次 / Contents
+- <a href="##査読付き論文--peer-reviewed-papers">査読付き論文 / Peer-reviewed Papers</a>
+- <a href="#国際学会での発表--Presentations at International Conferences">国際学会での発表 / Presentations at International Conferences</a>
+- <a href="#国内学会での発表筆頭">国内学会での発表（筆頭）</a>
+- <a href="#国内学会での発表共著">国内学会での発表（共著）</a>
+- <a href="#受賞歴">受賞歴</a>
 
 <br>
 
