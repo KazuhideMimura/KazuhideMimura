@@ -11,7 +11,7 @@ https://orcid.org/0000-0002-6411-0378
 <br>
 
 # 目次 / Contents
-- <a href="##査読付き論文--peer-reviewed-papers">査読付き論文 / Peer-reviewed Papers</a>
+- <a href="#査読付き論文--peer-reviewed-papers">査読付き論文 / Peer-reviewed Papers</a>
 - <a href="#国際学会での発表--Presentations-at-International-Conferences">国際学会での発表 / Presentations at International Conferences</a>
 - <a href="#国内学会での発表筆頭">国内学会での発表（筆頭）</a>
 - <a href="#国内学会での発表共著">国内学会での発表（共著）</a>
@@ -47,7 +47,7 @@ https://orcid.org/0000-0002-6411-0378
 
 <br>
 
-## 国際学会での発表 / Presentations at International Conferences
+# 国際学会での発表 / Presentations at International Conferences
 
 1. Kuwahara, Y., Yasukawa, K., Ohta, J., Yano, M., <u><b>Mimura, K.</b></u>, Tanaka E., Fujinaga, K., Nakamura, K., Kato, Y.: The Paleogene Seawater Os Isotope Record of the Indian Ocean: Implications for the chemical weathering feedback against Eocene Hyperthermal Events. 12th In­ter­na­tional Con­fer­ence on Cli­matic and Bi­otic Events of the Pa­leo­gene (CBEP12) (Bremen, Germany, Poster,  Aug. 25, 2022)
    
