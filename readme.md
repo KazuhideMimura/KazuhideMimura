@@ -6,7 +6,13 @@
 <img alt="Twitter" src="/images/2021 Twitter logo - blue.png" width="16" height="16" />
 Tweets by @KazuhideMimura</a>
 
+<br>
+
 # Research / 研究
+
+<a href="https://kazuhidemimura.github.io/">Personal Website</a>
+
+<a href="/research.md">研究業績 / Works</a>
 
 ORCID: 
 <a href="https://orcid.org/0000-0002-6411-0378">
@@ -14,15 +20,7 @@ ORCID:
 0000-0002-6411-0378
 </a>
 
-<a href="/research.md">研究業績 / Works</a>
-
-https://github.com/KazuhideMimura/KazuhideMimura/blob/main/research.md
-
-<p align="left"> 
-  <a href="https://kazuhidemimura.github.io/"><img alt="Icon1" width="150px" src="images/Icon2.PNG" /></a>
-  <a href="https://kazuhidemimura.github.io/jp/"><img alt="Icon1" width="150px" src="images/Icon1.PNG" /></a>
-</p>
-<br/>
+<br>
 
 # Performances in GitHub
 <p align="left"> 
@@ -48,5 +46,3 @@ https://github.com/KazuhideMimura/KazuhideMimura/blob/main/research.md
 (ディープラーニングG検定)
 
 <img src="/images/general2022_1_small_square.png" width="150">
-
-<br />
