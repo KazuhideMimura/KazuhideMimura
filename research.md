@@ -1,6 +1,6 @@
 # 研究業績 / Kazuhide Mimura's  works
 
-最終更新 / last update: 2023.6.3
+最終更新 / last update: 2023.6.23
 
 <a href="https://orcid.org/0000-0002-6411-0378">
 <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="20" height="20" />
@@ -11,6 +11,8 @@ https://orcid.org/0000-0002-6411-0378
 
 # 目次 / Contents
 - <a href="#査読付き論文--peer-reviewed-papers">査読付き論文 / Peer-reviewed Papers</a>
+- <a href="#Preprints-(under review)">Preprints</a>
+- <a href="#Datasets">Datasets</a>
 - <a href="#国際学会での発表--Presentations-at-International-Conferences">国際学会での発表 / Presentations at International Conferences</a>
 - <a href="#国内学会での発表筆頭">国内学会での発表（筆頭）</a>
 - <a href="#国内学会での発表共著">国内学会での発表（共著）</a>
@@ -25,7 +27,7 @@ https://orcid.org/0000-0002-6411-0378
 
 # 査読付き論文 / Peer-reviewed Papers
 
-1. Cendi,  D. P. D., Agangi, A., Idrus, A., Chelle-Michou, C., Lai, C., Ishida, M., Guillong, M., Gonzáles-Álvarez, I., Takahashi, R., Yano, M., <u><b>Mimura, K.</b></u>, Ohta, J., Kato, Y., Simbolon, D. R., Xia, X.: The age and origin of the Ruwai polymetallic skarn deposit, Indonesia: evidence of Cretaceous mineralization in the Central Borneo metallogenic belt. Economic Geology (accepted).
+1. Cendi,  D. P. D., Agangi, A., Idrus, A., Chelle-Michou, C., Lai, C., Ishida, M., Guillong, M., Gonzáles-Álvarez, I., Takahashi, R., Yano, M., <u><b>Mimura, K.</b></u>, Ohta, J., Kato, Y., Simbolon, D. R., Xia, X.: The age and origin of the Ruwai polymetallic skarn deposit, Indonesia: evidence of Cretaceous mineralization in the Central Borneo metallogenic belt. Economic Geology https://doi.org/10.5382/econgeo.5009, 2023 (accepted).
 
 2. <u><b>Mimura, K.</b></u>, Nakamura, K., Takao, K., Yasukawa, K. and Kato, Y.: Automated Detection of Hydrothermal Emission Signatures from Multi-Beam Echo Sounder Images Using Deep Learning. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 16, 2703-2710, https://doi.org/10.1109/JSTARS.2023.3247467, 2023.
 
@@ -50,6 +52,21 @@ https://orcid.org/0000-0002-6411-0378
 12. Yasukawa, K., Ohta, J., <u><b>Mimura, K.</b></u>, Tanaka, E., Takaya, Y., Usui, Y., Fujinaga, K., Machida, S., Nozaki, T., Iijima, K., Nakamura, K. and Kato, Y.: A new and prospective resource for scandium: Evidence from the geochemistry of deep-sea sediment in the western North Pacific Ocean. Ore Geology Reviews 102, 260-267, https://doi.org/10.1016/j.oregeorev.2018.09.001, 2018.
 
 <br>
+
+# Preprints (under review)
+1. <u><b>Mimura, K.</b></u>, Nakamura, K., Yasukawa, K., Sibert, E.C., Ohta, J., Kitazawa, T.,Kato, Y.: Applicability of Object Detection to Microfossil Research: Implications from Deep Learning Models to Detect Microfossil Fish Teeth and Denticles Using YOLO-v7. ESS Open Archive. https://doi.org/10.22541/essoar.168500340.03413762/v1, 2023.
+
+<br>
+
+# Datasets
+1. <u><b>Mimura, K.</b></u>, Nakamura, K., Yasukawa, K., Sibert, E.C., Ohta, J., Kitazawa, T.,Kato, Y.: Image datasets for training, validating and testing deep learning models to detect microfossil fish teeth and denticles called ichthyolith using YOLOv7. figshare. Dataset. https://doi.org/10.6084/m9.figshare.22736609.v1, 2023.
+
+2. <u><b>Mimura, K.</b></u>, Nakamura, K.: Datasets for hydrothermal plume detection, Mendeley Data, https://doi.org/10.17632/dg2595f68b.1, 2022.
+   
+3. <u><b>Mimura, K.</b></u>: Datasets for ichthyolith detection, Mendeley Data, https://doi.org/10.17632/zdpz6m9gzf.1, 2022.
+
+<br>
+
 
 # 国際学会での発表 / Presentations at International Conferences
 
