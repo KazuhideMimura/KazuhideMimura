@@ -21,7 +21,7 @@ https://orcid.org/0000-0002-6411-0378
 <br>
 
 <p align="center"> 
-  <img alt="microscope" width="100%" src="images/DSC_2714.jpg" />
+  <img alt="microscope" width="100%" src="images/DSC_2714.JPG" />
 </p>
 
 
