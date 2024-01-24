@@ -55,8 +55,7 @@ https://orcid.org/0000-0002-6411-0378
 
 <br>
 
-# Preprints
-1. <u><b>Mimura, K.</b></u>, Nakamura, K., Yasukawa, K., Sibert, E.C., Ohta, J., Kitazawa, T.,Kato, Y.: Applicability of Object Detection to Microfossil Research: Implications from Deep Learning Models to Detect Microfossil Fish Teeth and Denticles Using YOLO-v7. ESS Open Archive. https://doi.org/10.22541/essoar.168500340.03413762/v1, 2023.
+# Preprints (not peer-reviewed)
 
 <br>
 
