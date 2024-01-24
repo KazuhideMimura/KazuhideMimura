@@ -27,6 +27,8 @@ https://orcid.org/0000-0002-6411-0378
 
 # 査読付き論文 / Peer-reviewed Papers
 
+1. <u><b>Mimura, K.</b></u>,Nakamura, K., Yasukawa, K., Sibert, E. C., Ohta, J., Kitazawa, T. and Kato, Y. :Applicability of Object Detection to Microfossil Research: Implications From Deep Learning Models to Detect Microfossil Fish Teeth and Denticles Using YOLO-v7. Earth and Space Science, 11(1), e2023EA003122, https://doi.org/10.1029/2023EA003122, 2024.
+   
 1. Cendi,  D. P. D., Agangi, A., Idrus, A., Chelle-Michou, C., Lai, C., Ishida, M., Guillong, M., Gonzáles-Álvarez, I., Takahashi, R., Yano, M., <u><b>Mimura, K.</b></u>, Ohta, J., Kato, Y., Simbolon, D. R., Xia, X.: The age and origin of the Ruwai polymetallic skarn deposit, Indonesia: evidence of Cretaceous mineralization in the Central Borneo metallogenic belt. Economic Geology, 118(6), 1341–1370. https://doi.org/10.5382/econgeo.5009, 2023.
 
 1. <u><b>Mimura, K.</b></u>, Nakamura, K., Takao, K., Yasukawa, K. and Kato, Y.: Automated Detection of Hydrothermal Emission Signatures from Multi-Beam Echo Sounder Images Using Deep Learning. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 16, 2703-2710, https://doi.org/10.1109/JSTARS.2023.3247467, 2023.
@@ -43,13 +45,13 @@ https://orcid.org/0000-0002-6411-0378
 
 1.  Tanaka, E., Nakamura, K., Yasukawa, K., <u><b>Mimura, K.</b></u>, Fujinaga, K., Ohta, J., Iijima, K., Nozaki, T., Machida, S., Kato, Y.: Chemostratigraphic correlations of deep-sea sediments in the western North Pacific Ocean: A new constraint on the distribution of mud highly enriched in rare-earth elements. Minerals 10, 575, https://doi.org/10.3390/min10060575, 2020.
 
-1.  Ohta, J., Yasukawa, K., Nozaki, T., Takaya, Y., <u><b>Mimura, K.</b></u>, Fujinaga, K., Nakamura, K., Usui, Y., Kimura, J.-I., Chang, Q., Kato, Y.: Fish proliferation and rare-earth deposition by topographically induced upwelling at the late Eocene cooling event. Scientific Reports 10, 9896, https://doi.org/10.1038/s41598-020-66835-8, 2020.
+1. Ohta, J., Yasukawa, K., Nozaki, T., Takaya, Y., <u><b>Mimura, K.</b></u>, Fujinaga, K., Nakamura, K., Usui, Y., Kimura, J.-I., Chang, Q., Kato, Y.: Fish proliferation and rare-earth deposition by topographically induced upwelling at the late Eocene cooling event. Scientific Reports 10, 9896, https://doi.org/10.1038/s41598-020-66835-8, 2020.
 
-1. Tanaka, E., Nakamura, K., Yasukawa, K., <u><b>Mimura, K.</b></u>, Fujinaga, K., Iijima, K., Nozaki, T., Kato, Y.: Chemostratigraphy of deep-sea sediments in the western North Pacific Ocean: Implications for genesis of mud highly enriched in rare-earth elements and yttrium. Ore Geology Reviews 119, 103392, https://doi.org/10.1016/j.oregeorev.2020.103392, 2020.
+1.  Tanaka, E., Nakamura, K., Yasukawa, K., <u><b>Mimura, K.</b></u>, Fujinaga, K., Iijima, K., Nozaki, T., Kato, Y.: Chemostratigraphy of deep-sea sediments in the western North Pacific Ocean: Implications for genesis of mud highly enriched in rare-earth elements and yttrium. Ore Geology Reviews 119, 103392, https://doi.org/10.1016/j.oregeorev.2020.103392, 2020.
 
-1. <u><b>Mimura, K.</b></u>, Nakamura, K., Yasukawa, K., Machida, S., Ohta, J., Fujinaga, K., Kato, Y.: Significant impacts of pelagic clay on average chemical composition of subducting sediments: New insights from discovery of extremely rare-earth elements and yttrium-rich mud at Ocean Drilling Program Site 1149 in the western North Pacific Ocean. Journal of Asian Earth Sciences 186, 104059, https://doi.org/10.1016/j.jseaes.2019.104059, 2019.
+1.  <u><b>Mimura, K.</b></u>, Nakamura, K., Yasukawa, K., Machida, S., Ohta, J., Fujinaga, K., Kato, Y.: Significant impacts of pelagic clay on average chemical composition of subducting sediments: New insights from discovery of extremely rare-earth elements and yttrium-rich mud at Ocean Drilling Program Site 1149 in the western North Pacific Ocean. Journal of Asian Earth Sciences 186, 104059, https://doi.org/10.1016/j.jseaes.2019.104059, 2019.
 
-1. Yasukawa, K., Ohta, J., <u><b>Mimura, K.</b></u>, Tanaka, E., Takaya, Y., Usui, Y., Fujinaga, K., Machida, S., Nozaki, T., Iijima, K., Nakamura, K. and Kato, Y.: A new and prospective resource for scandium: Evidence from the geochemistry of deep-sea sediment in the western North Pacific Ocean. Ore Geology Reviews 102, 260-267, https://doi.org/10.1016/j.oregeorev.2018.09.001, 2018.
+1.  Yasukawa, K., Ohta, J., <u><b>Mimura, K.</b></u>, Tanaka, E., Takaya, Y., Usui, Y., Fujinaga, K., Machida, S., Nozaki, T., Iijima, K., Nakamura, K. and Kato, Y.: A new and prospective resource for scandium: Evidence from the geochemistry of deep-sea sediment in the western North Pacific Ocean. Ore Geology Reviews 102, 260-267, https://doi.org/10.1016/j.oregeorev.2018.09.001, 2018.
 
 <br>
 
