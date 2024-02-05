@@ -71,7 +71,9 @@ https://orcid.org/0000-0002-6411-0378
 
 # 国際学会での発表 / Presentations at International Conferences
 
-1. Ogasawara, M., Ohta, J., Ishida, M., Yano, M., Mimura, K., Yasukawa, K., and Kato, Y.: Formation age of Kosaka Uchinotai-West Kuroko Deposit, NE Japan, determined by Re-Os isotope analysis. SGA 2023 (Zurich, Switzerland, September 2023)
+1. <u><b>Mimura, K.</b></u>, Nakamura, K., Yasukawa, K., Sibert, E. C., Ohta, J., Kitazawa, T., Kato, Y.: Automated Detection of Microfossil Fish Teeth and Denticles from Microscopic Images: Toward Reconstruction of Biostratigraphy for Pelagic Clay. AGU annual meeting 2023 (San Francisco, USA, December 2023)
+
+1. Ogasawara, M., Ohta, J., Ishida, M., Yano, M., <u><b>Mimura, K.</b></u>, Yasukawa, K., and Kato, Y.: Formation age of Kosaka Uchinotai-West Kuroko Deposit, NE Japan, determined by Re-Os isotope analysis. SGA 2023 (Zurich, Switzerland, September 2023)
 
 1. Kuwahara, Y., Yasukawa, K., Ohta, J., Yano, M., <u><b>Mimura, K.</b></u>, Tanaka E., Fujinaga, K., Nakamura, K., Kato, Y.: The Paleogene Seawater Os Isotope Record of the Indian Ocean: Implications for the chemical weathering feedback against Eocene Hyperthermal Events. 12th In­ter­na­tional Con­fer­ence on Cli­matic and Bi­otic Events of the Pa­leo­gene (CBEP12) (Bremen, Germany, Poster,  Aug. 25, 2022)
    
