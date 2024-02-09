@@ -1,6 +1,6 @@
 # 研究業績 / Kazuhide Mimura's  works
 
-最終更新 / last update: 2023.9.27
+最終更新 / last update: 2024.2.9
 
 <a href="https://orcid.org/0000-0002-6411-0378">
 <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="20" height="20" />
