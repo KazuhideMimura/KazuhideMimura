@@ -62,9 +62,11 @@ https://orcid.org/0000-0002-6411-0378
 # Datasets
 1. <u><b>Mimura, K.</b></u>, Nakamura, K., Yasukawa, K., Sibert, E.C., Ohta, J., Kitazawa, T.,Kato, Y.: Image datasets for training, validating and testing deep learning models to detect microfossil fish teeth and denticles called ichthyolith using YOLOv7. figshare. Dataset. https://doi.org/10.6084/m9.figshare.22736609.v1, 2023.
 
-1. <u><b>Mimura, K.</b></u>, Nakamura, K.: Datasets for hydrothermal plume detection, Mendeley Data, https://doi.org/10.17632/dg2595f68b.1, 2022.
+2. Tanaka, E., <u><b>Mimura, K.</b></u>, Nakamura, K., Ohta, J., Yasukawa, K., Kato, Y.: Bulk chemical compositions and REY and Sc resource potentials of deep-sea sediments in the South Pacific Gyre, Mendeley Data, V1, https://doi.org/10.17632/fjjy8r3xmw.1, 2023.
+
+3. <u><b>Mimura, K.</b></u>, Nakamura, K.: Datasets for hydrothermal plume detection, Mendeley Data, https://doi.org/10.17632/dg2595f68b.1, 2022.
    
-1. <u><b>Mimura, K.</b></u>: Datasets for ichthyolith detection, Mendeley Data, https://doi.org/10.17632/zdpz6m9gzf.1, 2022.
+4. <u><b>Mimura, K.</b></u>: Datasets for ichthyolith detection, Mendeley Data, https://doi.org/10.17632/zdpz6m9gzf.1, 2022.
 
 <br>
 
