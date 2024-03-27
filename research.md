@@ -1,6 +1,6 @@
 # 研究業績 / Kazuhide Mimura's  works
 
-最終更新 / last update: 2024.3.7
+最終更新 / last update: 2024.3.27
 
 <a href="https://orcid.org/0000-0002-6411-0378">
 <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="20" height="20" />
@@ -27,7 +27,9 @@ https://orcid.org/0000-0002-6411-0378
 
 # 査読付き論文 / Peer-reviewed Papers
 
-1. <u><b>Mimura, K.</b></u>,Nakamura, K., Yasukawa, K., Sibert, E. C., Ohta, J., Kitazawa, T. and Kato, Y. :Applicability of Object Detection to Microfossil Research: Implications From Deep Learning Models to Detect Microfossil Fish Teeth and Denticles Using YOLO-v7. Earth and Space Science, 11(1), e2023EA003122, https://doi.org/10.1029/2023EA003122, 2024.
+1. Nozaki, T., Goto, K. T., Takaya, Y., Shimada, K., Owada, A., Shimoda, G., Kimura, J-I., Chang, Q., Onoue, T, Machida, S., Ishii, T., Shimizu, K., Hirano, N., <u><b>Mimura, K.</b></u>, Yano, M., Ohta, J. and Kato, Y.: Petrography and stratigraphic Os isotopic ages of ferromanganese nodules from the Northwest Pacific east of Minamitorishima Island. Journal of Asian Earth Sciences: X, 11, 100176. https://doi.org/10.1016/j.jaesx.2024.100176, 2024.
+
+1. <u><b>Mimura, K.</b></u>, Nakamura, K., Yasukawa, K., Sibert, E. C., Ohta, J., Kitazawa, T. and Kato, Y. :Applicability of Object Detection to Microfossil Research: Implications From Deep Learning Models to Detect Microfossil Fish Teeth and Denticles Using YOLO-v7. Earth and Space Science, 11(1), e2023EA003122, https://doi.org/10.1029/2023EA003122, 2024.
    
 1. Cendi,  D. P. D., Agangi, A., Idrus, A., Chelle-Michou, C., Lai, C., Ishida, M., Guillong, M., Gonzáles-Álvarez, I., Takahashi, R., Yano, M., <u><b>Mimura, K.</b></u>, Ohta, J., Kato, Y., Simbolon, D. R., Xia, X.: The age and origin of the Ruwai polymetallic skarn deposit, Indonesia: evidence of Cretaceous mineralization in the Central Borneo metallogenic belt. Economic Geology, 118(6), 1341–1370. https://doi.org/10.5382/econgeo.5009, 2023.
 
