@@ -1,6 +1,6 @@
 # 研究業績 / Kazuhide Mimura's  works
 
-最終更新 / last update: 2024.6.3
+最終更新 / last update: 2024.6.19
 
 <a href="https://orcid.org/0000-0002-6411-0378">
 <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="20" height="20" />
@@ -58,6 +58,8 @@ https://orcid.org/0000-0002-6411-0378
 <br>
 
 # Preprints (not peer-reviewed)
+
+1. Mimura, K., Kitazawa, T., Nakamura, K., Yasukawa, K., Kuwahara, Y., Ohta, J. and Kato, Y. Deep-sea rare-earth mineral resources formed in the early Eocene Hothouse ocean: Insights from deep learning-based microfossil observations. ESS Open Archive. June 10, 2024. https://doi.org/10.22541/essoar.171804943.38756240/v1, 2024
 
 <br>
 
