@@ -78,6 +78,11 @@ https://orcid.org/0000-0002-6411-0378
 
 <br>
 
+# Program codes
+1. Mimura, K., & Akizawa, N. (2025). GeoMAC: Geochemical Mode Analysis Calculator (v1.1). Zenodo. https://doi.org/10.5281/zenodo.14676066
+
+1. Mimura, K. (2025) Yolov7-slideObservation (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.14619204
+
 
 # 国際学会での発表 / Presentations at International Conferences
 
