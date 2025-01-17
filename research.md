@@ -66,7 +66,7 @@ ORCID:
 
 # Preprints (not peer-reviewed)
 
-1. Mimura, K., Kitazawa, T., Nakamura, K., Yasukawa, K., Kuwahara, Y., Ohta, J. and Kato, Y. Deep-sea rare-earth mineral resources formed in the early Eocene Hothouse ocean: Insights from deep learning-based microfossil observations. ESS Open Archive. June 10, 2024. https://doi.org/10.22541/essoar.171804943.38756240/v1, 2024
+1. <u><b>Mimura, K.</b></u>, Kitazawa, T., Nakamura, K., Yasukawa, K., Kuwahara, Y., Ohta, J. and Kato, Y. Deep-sea rare-earth mineral resources formed in the early Eocene Hothouse ocean: Insights from deep learning-based microfossil observations. ESS Open Archive. June 10, 2024. https://doi.org/10.22541/essoar.171804943.38756240/v1, 2024
 
 <br>
 
@@ -82,9 +82,9 @@ ORCID:
 <br>
 
 # Program codes
-1. Mimura, K., & Akizawa, N. (2025). GeoMAC: Geochemical Mode Analysis Calculator (v1.1). Zenodo. https://doi.org/10.5281/zenodo.14676066
+1. <u><b>Mimura, K.</b></u>, & Akizawa, N. (2025). GeoMAC: Geochemical Mode Analysis Calculator (v1.1). Zenodo. https://doi.org/10.5281/zenodo.14676066
 
-1. Mimura, K. (2025) Yolov7-slideObservation (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.14619204
+1. <u><b>Mimura, K.</b></u> (2025) Yolov7-slideObservation (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.14619204
 
 
 # 国際学会での発表 / Presentations at International Conferences
