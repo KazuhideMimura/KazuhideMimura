@@ -2,9 +2,9 @@
 
 <!-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=KazuhideMimura&left_color=gray&right_color=blue) -->
 
-<a href="https://twitter.com/KazuhideMimura">
-<img alt="Twitter" src="/images/2021 Twitter logo - blue.png" width="16" height="16" />
-Tweets by @KazuhideMimura</a>
+<a href="https://x.com/KazuhideMimura">
+<img alt="X" src="/images/2021 Twitter logo - blue.png" width="16" height="16" />
+Posts by @KazuhideMimura</a>
 
 <br>
 
@@ -19,6 +19,8 @@ ORCID:
 <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />
 0000-0002-6411-0378
 </a>
+
+[researchmap](https://researchmap.jp/kazuhidemimura)
 
 <br>
 
