@@ -89,7 +89,7 @@ ORCID:
 
 # 国際学会での発表 / Presentations at International Conferences
 
-1. Mimura, K., Kitazawa, T., Nakamura, K., Yasukawa, K., Kuwahara, Y., Ohta, J. and Kato, Y.: Seafloor mineral resources for rare-earth elements formed in the early Eocene Hothouse ocean: Insights from deep learning-based microfossil fish teeth observation. AGU annual meeting 2024 (Washington D.C., USA, December 2024)
+1. <u><b>Mimura, K.</b></u>, Kitazawa, T., Nakamura, K., Yasukawa, K., Kuwahara, Y., Ohta, J. and Kato, Y.: Seafloor mineral resources for rare-earth elements formed in the early Eocene Hothouse ocean: Insights from deep learning-based microfossil fish teeth observation. AGU annual meeting 2024 (Washington D.C., USA, December 2024)
 
 1. <u><b>Mimura, K.</b></u>, Nakamura, K., Yasukawa, K., Sibert, E. C., Ohta, J., Kitazawa, T., Kato, Y.: Automated Detection of Microfossil Fish Teeth and Denticles from Microscopic Images: Toward Reconstruction of Biostratigraphy for Pelagic Clay. AGU annual meeting 2023 (San Francisco, USA, December 2023)
 
