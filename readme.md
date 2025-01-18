@@ -25,6 +25,9 @@ ORCID:
 <br>
 
 # Performances in GitHub
+
+[KazuhideMimura's repositories](https://github.com/KazuhideMimura?tab=repositories)
+
 <p align="left"> 
   <img alt="Summary" width="800px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KazuhideMimura&theme=solarized_dark" />
 </p>
