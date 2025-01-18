@@ -66,7 +66,7 @@ ORCID:
 
 # Preprints (not peer-reviewed)
 
-1. Mimura, K., Kitazawa, T., Nakamura, K., Yasukawa, K., Kuwahara, Y., Ohta, J. and Kato, Y. Deep-sea rare-earth mineral resources formed in the early Eocene Hothouse ocean: Insights from deep learning-based microfossil observations. ESS Open Archive. June 10, 2024. https://doi.org/10.22541/essoar.171804943.38756240/v1, 2024
+1. <u><b>Mimura, K.</b></u>, Kitazawa, T., Nakamura, K., Yasukawa, K., Kuwahara, Y., Ohta, J. and Kato, Y. Deep-sea rare-earth mineral resources formed in the early Eocene Hothouse ocean: Insights from deep learning-based microfossil observations. ESS Open Archive. June 10, 2024. https://doi.org/10.22541/essoar.171804943.38756240/v1, 2024
 
 <br>
 
@@ -82,12 +82,14 @@ ORCID:
 <br>
 
 # Program codes
-1. Mimura, K., & Akizawa, N. (2025). GeoMAC: Geochemical Mode Analysis Calculator (v1.1). Zenodo. https://doi.org/10.5281/zenodo.14676066
+1. <u><b>Mimura, K.</b></u>, & Akizawa, N. (2025). GeoMAC: Geochemical Mode Analysis Calculator (v1.1). Zenodo. https://doi.org/10.5281/zenodo.14676066
 
-1. Mimura, K. (2025) Yolov7-slideObservation (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.14619204
+1. <u><b>Mimura, K.</b></u> (2025) Yolov7-slideObservation (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.14619204
 
 
 # 国際学会での発表 / Presentations at International Conferences
+
+1. <u><b>Mimura, K.</b></u>, Kitazawa, T., Nakamura, K., Yasukawa, K., Kuwahara, Y., Ohta, J. and Kato, Y.: Seafloor mineral resources for rare-earth elements formed in the early Eocene Hothouse ocean: Insights from deep learning-based microfossil fish teeth observation. AGU annual meeting 2024 (Washington D.C., USA, December 2024)
 
 1. <u><b>Mimura, K.</b></u>, Nakamura, K., Yasukawa, K., Sibert, E. C., Ohta, J., Kitazawa, T., Kato, Y.: Automated Detection of Microfossil Fish Teeth and Denticles from Microscopic Images: Toward Reconstruction of Biostratigraphy for Pelagic Clay. AGU annual meeting 2023 (San Francisco, USA, December 2023)
 
@@ -117,7 +119,9 @@ ORCID:
 
 # 国内学会での発表（筆頭）
 
-1. <u><b>見邨和英</b></u>、北澤尭大、中村謙太郎、安川和孝、大田隼一郎、加藤泰浩：温室地球で形成された海底レアアース資源：深層学習を用いた微化石観察からの示唆．JpGU Meeting 2024  (千葉，ハイブリッド開催，2024年5月)
+1. <u><b>見邨和英</b></u>，北澤尭大，中村謙太郎，安川和孝，大田隼一郎，桑原佑典，加藤泰浩：南鳥島周辺海域の深海堆積物に見られる厚いレアアース濃集層の形成メカニズム．日本地質学会第131年学術大会（山形，2024年9月）
+
+1. <u><b>見邨和英</b></u>，北澤尭大，中村謙太郎，安川和孝，大田隼一郎，桑原佑典，加藤泰浩：温室地球で形成された海底レアアース資源：深層学習を用いた微化石観察からの示唆．JpGU Meeting 2024  (千葉，ハイブリッド開催，2024年5月)
    
 2. <u><b>見邨和英</b></u>：深層学習を活用した海底鉱物資源研究の新展開：レアアース泥中のイクチオリス微化石の観察および海底熱水鉱床の物理探査を例に．日本地質学会第130年学術大会 (京都，2023年9月) [Invited]
 
@@ -148,6 +152,18 @@ ORCID:
 <br>
 
 # 国内学会での発表（共著）
+
+1. 吉岡純平，板木拓也，<u><b>見邨和英</b></u>，関有沙：スミアスライド画像を用いた岩相の自動判別技術の開発．第10回地球環境史学会年会（東京，2024年11月）
+
+1. 玄田貴之，<u><b>見邨和英</b></u>，中村謙太郎，中谷武志，北田数也，安川和孝，加藤泰浩：AUV MBES画像からの新たな海底熱水活動の高精度検出手法の開発．物理探査学会第151回学術講演会（宮崎，2024年12月）
+
+1. 玄田貴之，<u><b>見邨和英</b></u>，中村謙太郎，中谷武志，北田数也，安川和孝，加藤泰浩：深層学習を用いたAUV MBESデータからの海底熱水シグナルの高精度検出手法の開発．日本地質学会第131年学術大会（山形，2024年9月）
+
+1. 伊地知遼行，安川和孝，中村謙太郎，<u><b>見邨和英</b></u>，大田隼一郎，加藤泰浩：画像解析技術を用いたレアアース泥の粒度組成定量分析法の開発．日本地質学会第131年学術大会（山形，2024年9月）
+
+1. 小笠原光基，大田隼一郎，町田嗣樹，石田美月，矢野萌生，<u><b>見邨和英</b></u>，中村謙太郎，安川和孝，藤永公一郎，加藤泰浩：Re-Os放射年代，U-Pb放射年代およびPb同位体組成に基づく兵庫県明延多金属鉱床のCu-Zn脈とSn-W脈の形成プロセス．日本地質学会第131年学術大会（山形，2024年9月）
+
+1. 野崎達生，後藤孝介，高谷雄太郎，島田和彦，大和田朗，下田玄，木村純一・常青，尾上哲治，町田嗣樹，石井輝秋，清水健二，平野直人，<u><b>見邨和英</b></u>，矢野萌生，大田隼一郎・加藤泰浩：南鳥島東方沖から採取されたMn団塊の記載およびOs同位体層序年代．資源地質学会第73回年会（東京，2024年6月）
 
 1. 畠山裕亮、桑原佑典、安川和孝、矢野萌生、<u><b>見邨和英</b></u>、大田隼一郎、田中えりか、中村謙太郎、加藤泰浩：南太平洋Campbell 海台の深海堆積物に記録された古第三紀前期の海洋 Os 同位体比変動．JpGU Meeting 2024  (千葉，ハイブリッド開催，2024年5月)
    
