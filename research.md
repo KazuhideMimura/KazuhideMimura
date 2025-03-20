@@ -1,6 +1,6 @@
 # 研究業績 / Kazuhide Mimura's  works
 
-最終更新 / last update: 2025.3.6
+最終更新 / last update: 2025.3.21
 
 ORCID: 
 <a href="https://orcid.org/0000-0002-6411-0378">
@@ -228,6 +228,11 @@ ORCID:
 31. 中村謙太郎・<u><b>見邨和英</b></u>・安川和孝・藤永公一郎・加藤泰浩：南鳥島EEZにおけるレアアース泥を含む深海堆積物の化学層序．日本地質学会第123年学術大会，R24-O-3, September 2016, Tokyo, Japan. (Oral)
 
 <br>
+
+# プレスリリース
+1. [AI研究の最新知見、ミクロな化石の鑑定で成果 (2025/3/6)](https://www.aist.go.jp/aist_j/press_release/pr2025/pr20250306_2/pr20250306_2.html)
+   
+2. [海洋マントルの有機炭素検出　―南太平洋アイツタキ島マントル捕獲岩からのアプローチ― (2024.8.6)](https://www.aori.u-tokyo.ac.jp/research/news/2024/20240806.html)
 
 # 受賞歴
 
