@@ -19,6 +19,7 @@ ORCID:
 - <a href="#国際学会での発表--Presentations-at-International-Conferences">国際学会での発表 / Presentations at International Conferences</a>
 - <a href="#国内学会での発表筆頭">国内学会での発表（筆頭）</a>
 - <a href="#国内学会での発表共著">国内学会での発表（共著）</a>
+- <a href="#プレスリリース">プレスリリース</a>
 - <a href="#受賞歴">受賞歴</a>
 
 <br>
