@@ -233,7 +233,7 @@ ORCID:
 # プレスリリース
 1. [AI研究の最新知見、ミクロな化石の鑑定で成果 (2025/3/6)](https://www.aist.go.jp/aist_j/press_release/pr2025/pr20250306_2/pr20250306_2.html)
    
-2. [海洋マントルの有機炭素検出　―南太平洋アイツタキ島マントル捕獲岩からのアプローチ― (2024.8.6)](https://www.aori.u-tokyo.ac.jp/research/news/2024/20240806.html)
+2. [海洋マントルの有機炭素検出　―南太平洋アイツタキ島マントル捕獲岩からのアプローチ― (2024/8/6)](https://www.aori.u-tokyo.ac.jp/research/news/2024/20240806.html)
 
 # 受賞歴
 
