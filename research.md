@@ -1,6 +1,6 @@
 # 研究業績 / Kazuhide Mimura's  works
 
-最終更新 / last update: 2025.3.21
+最終更新 / last update: 2025.4.21
 
 ORCID: 
 <a href="https://orcid.org/0000-0002-6411-0378">
@@ -14,12 +14,13 @@ ORCID:
 
 # 目次 / Contents
 - <a href="#査読付き論文--peer-reviewed-papers">査読付き論文 / Peer-reviewed Papers</a>
-- <a href="#Preprints">Preprints (under review)</a>
+<!-- - <a href="#Preprints">Preprints (under review)</a> -->
 - <a href="#Datasets">Datasets</a>
 - <a href="#国際学会での発表--Presentations-at-International-Conferences">国際学会での発表 / Presentations at International Conferences</a>
 - <a href="#国内学会での発表筆頭">国内学会での発表（筆頭）</a>
 - <a href="#国内学会での発表共著">国内学会での発表（共著）</a>
 - <a href="#プレスリリース">プレスリリース</a>
+- <a href="#報道等">報道等</a>
 - <a href="#受賞歴">受賞歴</a>
 
 <br>
@@ -31,47 +32,46 @@ ORCID:
 
 # 査読付き論文 / Peer-reviewed Papers
 
-1. <u><b>Mimura, K.</b></u>, Itaki, T., Kataoka, H., Miyakawa., A.: Classifying microfossil radiolarians on fractal pre-trained vision transformers, Scientific Reports, 15, 7189, https://doi.org/10.1038/s41598-025-90988-z, 2025.
+1. <u><b>Mimura, K.</b></u>, Kitazawa, T., Nakamura, K., Yasukawa, K., Kuwahara, Y., Ohta, J. and Kato, Y. Deep-sea rare-earth mineral resources formed in the early Eocene Hothouse ocean: Insights from deep learning-based microfossil observations. Paleoceanography and Paleoclimatology, 40(4), e2024PA004938, https://doi.org/10.1029/2024PA004938, 2025.
 
-2. Tanaka, E., <u><b>Mimura, K.</b></u>, Ohta, J., Miyazaki, T., Vaglarov, B. S., Yasukawa, K., Nakamura, K., Kato, Y.: Composite ages of pelagic clay enriched in rare-earth elements in the Pacific Ocean based on Sr isotope chemostratigraphy and ichthyolith biostratigraphy, Newsletters on Stratigraphy, 57(3), 359-387, https://doi.org/10.1127/nos/2024/0812, 2024.
+2. <u><b>Mimura, K.</b></u>, Itaki, T., Kataoka, H., Miyakawa., A.: Classifying microfossil radiolarians on fractal pre-trained vision transformers, Scientific Reports, 15, 7189, https://doi.org/10.1038/s41598-025-90988-z, 2025.
 
-3. Akizawa, N., Ishimura, T., Yoshikawa, M., Kogiso, T., Ishikawa, A., <u><b>Mimura, K.</b></u>: Stable carbon and oxygen isotope signatures of mantle-derived calcite in Aitutaki lherzolite xenolith: Implications for organic carbon cycle in the oceanic mantle, Marine Geology, 107363, https://doi.org/10.1016/j.margeo.2024.107363, 2024.
+3. Tanaka, E., <u><b>Mimura, K.</b></u>, Ohta, J., Miyazaki, T., Vaglarov, B. S., Yasukawa, K., Nakamura, K., Kato, Y.: Composite ages of pelagic clay enriched in rare-earth elements in the Pacific Ocean based on Sr isotope chemostratigraphy and ichthyolith biostratigraphy, Newsletters on Stratigraphy, 57(3), 359-387, https://doi.org/10.1127/nos/2024/0812, 2024.
+
+4. Akizawa, N., Ishimura, T., Yoshikawa, M., Kogiso, T., Ishikawa, A., <u><b>Mimura, K.</b></u>: Stable carbon and oxygen isotope signatures of mantle-derived calcite in Aitutaki lherzolite xenolith: Implications for organic carbon cycle in the oceanic mantle, Marine Geology, 107363, https://doi.org/10.1016/j.margeo.2024.107363, 2024.
    
-4. Nozaki, T., Goto, K. T., Takaya, Y., Shimada, K., Owada, A., Shimoda, G., Kimura, J-I., Chang, Q., Onoue, T, Machida, S., Ishii, T., Shimizu, K., Hirano, N., <u><b>Mimura, K.</b></u>, Yano, M., Ohta, J. and Kato, Y.: Petrography and stratigraphic Os isotopic ages of ferromanganese nodules from the Northwest Pacific east of Minamitorishima Island. Journal of Asian Earth Sciences: X, 11, 100176. https://doi.org/10.1016/j.jaesx.2024.100176, 2024.
+5. Nozaki, T., Goto, K. T., Takaya, Y., Shimada, K., Owada, A., Shimoda, G., Kimura, J-I., Chang, Q., Onoue, T, Machida, S., Ishii, T., Shimizu, K., Hirano, N., <u><b>Mimura, K.</b></u>, Yano, M., Ohta, J. and Kato, Y.: Petrography and stratigraphic Os isotopic ages of ferromanganese nodules from the Northwest Pacific east of Minamitorishima Island. Journal of Asian Earth Sciences: X, 11, 100176. https://doi.org/10.1016/j.jaesx.2024.100176, 2024.
 
-5. <u><b>Mimura, K.</b></u>, Nakamura, K., Yasukawa, K., Sibert, E. C., Ohta, J., Kitazawa, T. and Kato, Y. :Applicability of Object Detection to Microfossil Research: Implications From Deep Learning Models to Detect Microfossil Fish Teeth and Denticles Using YOLO-v7. Earth and Space Science, 11(1), e2023EA003122, https://doi.org/10.1029/2023EA003122, 2024. [Cover story](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1002/ess2.1470)
+6. <u><b>Mimura, K.</b></u>, Nakamura, K., Yasukawa, K., Sibert, E. C., Ohta, J., Kitazawa, T. and Kato, Y. :Applicability of Object Detection to Microfossil Research: Implications From Deep Learning Models to Detect Microfossil Fish Teeth and Denticles Using YOLO-v7. Earth and Space Science, 11(1), e2023EA003122, https://doi.org/10.1029/2023EA003122, 2024. [Cover story](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1002/ess2.1470)
    
-6. Cendi,  D. P. D., Agangi, A., Idrus, A., Chelle-Michou, C., Lai, C., Ishida, M., Guillong, M., Gonzáles-Álvarez, I., Takahashi, R., Yano, M., <u><b>Mimura, K.</b></u>, Ohta, J., Kato, Y., Simbolon, D. R., Xia, X.: The age and origin of the Ruwai polymetallic skarn deposit, Indonesia: evidence of Cretaceous mineralization in the Central Borneo metallogenic belt. Economic Geology, 118(6), 1341–1370. https://doi.org/10.5382/econgeo.5009, 2023.
+7. Cendi,  D. P. D., Agangi, A., Idrus, A., Chelle-Michou, C., Lai, C., Ishida, M., Guillong, M., Gonzáles-Álvarez, I., Takahashi, R., Yano, M., <u><b>Mimura, K.</b></u>, Ohta, J., Kato, Y., Simbolon, D. R., Xia, X.: The age and origin of the Ruwai polymetallic skarn deposit, Indonesia: evidence of Cretaceous mineralization in the Central Borneo metallogenic belt. Economic Geology, 118(6), 1341–1370. https://doi.org/10.5382/econgeo.5009, 2023.
 
-7. <u><b>Mimura, K.</b></u>, Nakamura, K., Takao, K., Yasukawa, K. and Kato, Y.: Automated Detection of Hydrothermal Emission Signatures from Multi-Beam Echo Sounder Images Using Deep Learning. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 16, 2703-2710, https://doi.org/10.1109/JSTARS.2023.3247467, 2023.
+8. <u><b>Mimura, K.</b></u>, Nakamura, K., Takao, K., Yasukawa, K. and Kato, Y.: Automated Detection of Hydrothermal Emission Signatures from Multi-Beam Echo Sounder Images Using Deep Learning. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 16, 2703-2710, https://doi.org/10.1109/JSTARS.2023.3247467, 2023.
 
-8. Tanaka, E., <u><b>Mimura, K.</b></u>, Nakamura, K., Ohta, J., Yasukawa, K. and Kato, Y.: Rare-earth elements in deep-sea sediments in the South Pacific Gyre: Source materials and resource potentials. Geochemistry, Geophysics, Geosystems, 24, e2022GC010681. https://doi.org/10.1029/2022GC010681, 2023. 
+9. Tanaka, E., <u><b>Mimura, K.</b></u>, Nakamura, K., Ohta, J., Yasukawa, K. and Kato, Y.: Rare-earth elements in deep-sea sediments in the South Pacific Gyre: Source materials and resource potentials. Geochemistry, Geophysics, Geosystems, 24, e2022GC010681. https://doi.org/10.1029/2022GC010681, 2023. 
   
-9.  <u><b>Mimura, K.</b></u> and Nakamura, K.: Datasets for training and validating a deep learning-based system to detect microfossil fish teeth from slide images. Data in Brief, 47, 108940. https://doi.org/10.1016/j.dib.2023.108940, 2023.
+10. <u><b>Mimura, K.</b></u> and Nakamura, K.: Datasets for training and validating a deep learning-based system to detect microfossil fish teeth from slide images. Data in Brief, 47, 108940. https://doi.org/10.1016/j.dib.2023.108940, 2023.
    
-10. <u><b>Mimura, K.</b></u>, Minabe, S., Nakamura, K., Yasukawa, K., Ohta, J. and Kato, Y.: Automated detection of microfossil fish teeth from slide images using combined deep learning models. Applied Computing and Geosciences, 16, 100092, https://doi.org/10.1016/j.acags.2022.100092, 2022.
+11. <u><b>Mimura, K.</b></u>, Minabe, S., Nakamura, K., Yasukawa, K., Ohta, J. and Kato, Y.: Automated detection of microfossil fish teeth from slide images using combined deep learning models. Applied Computing and Geosciences, 16, 100092, https://doi.org/10.1016/j.acags.2022.100092, 2022.
    
-11. Yasukawa, K., Kino, S., Ohta, J., Azami, K., Tanaka, E., <u><b>Mimura, K.</b></u>, Fujinaga, K., Nakamura, K., Kato, Y.: Stratigraphic Variations of Fe–Mn Micronodules and Implications for the Formation of Extremely REY-Rich Mud in the Western North Pacific Ocean. Minerals, 11, 270, https://doi.org/10.3390/min11030270, 2021.
+12. Yasukawa, K., Kino, S., Ohta, J., Azami, K., Tanaka, E., <u><b>Mimura, K.</b></u>, Fujinaga, K., Nakamura, K., Kato, Y.: Stratigraphic Variations of Fe–Mn Micronodules and Implications for the Formation of Extremely REY-Rich Mud in the Western North Pacific Ocean. Minerals, 11, 270, https://doi.org/10.3390/min11030270, 2021.
 
-12. Yasukawa, K., Kino, S., Azami, K., Tanaka, E., <u><b>Mimura, K.</b></u>, Ohta, J., Fujinaga, K., Nakamura, K., Kato, Y.: Geochemical features of Fe-Mn micronodules in deep-sea sediments of the western North Pacific Ocean: Potential for co-product metal extraction from REY-rich mud. Ore Geology Reviews 127, 103805, https://doi.org/10.1016/j.oregeorev.2020.103805, 2020.
+13. Yasukawa, K., Kino, S., Azami, K., Tanaka, E., <u><b>Mimura, K.</b></u>, Ohta, J., Fujinaga, K., Nakamura, K., Kato, Y.: Geochemical features of Fe-Mn micronodules in deep-sea sediments of the western North Pacific Ocean: Potential for co-product metal extraction from REY-rich mud. Ore Geology Reviews 127, 103805, https://doi.org/10.1016/j.oregeorev.2020.103805, 2020.
 
-13. Tanaka, E., Nakamura, K., Yasukawa, K., <u><b>Mimura, K.</b></u>, Fujinaga, K., Ohta, J., Iijima, K., Nozaki, T., Machida, S., Kato, Y.: Chemostratigraphic correlations of deep-sea sediments in the western North Pacific Ocean: A new constraint on the distribution of mud highly enriched in rare-earth elements. Minerals 10, 575, https://doi.org/10.3390/min10060575, 2020.
+14. Tanaka, E., Nakamura, K., Yasukawa, K., <u><b>Mimura, K.</b></u>, Fujinaga, K., Ohta, J., Iijima, K., Nozaki, T., Machida, S., Kato, Y.: Chemostratigraphic correlations of deep-sea sediments in the western North Pacific Ocean: A new constraint on the distribution of mud highly enriched in rare-earth elements. Minerals 10, 575, https://doi.org/10.3390/min10060575, 2020.
 
-14. Ohta, J., Yasukawa, K., Nozaki, T., Takaya, Y., <u><b>Mimura, K.</b></u>, Fujinaga, K., Nakamura, K., Usui, Y., Kimura, J.-I., Chang, Q., Kato, Y.: Fish proliferation and rare-earth deposition by topographically induced upwelling at the late Eocene cooling event. Scientific Reports 10, 9896, https://doi.org/10.1038/s41598-020-66835-8, 2020.
+15. Ohta, J., Yasukawa, K., Nozaki, T., Takaya, Y., <u><b>Mimura, K.</b></u>, Fujinaga, K., Nakamura, K., Usui, Y., Kimura, J.-I., Chang, Q., Kato, Y.: Fish proliferation and rare-earth deposition by topographically induced upwelling at the late Eocene cooling event. Scientific Reports 10, 9896, https://doi.org/10.1038/s41598-020-66835-8, 2020.
 
-15. Tanaka, E., Nakamura, K., Yasukawa, K., <u><b>Mimura, K.</b></u>, Fujinaga, K., Iijima, K., Nozaki, T., Kato, Y.: Chemostratigraphy of deep-sea sediments in the western North Pacific Ocean: Implications for genesis of mud highly enriched in rare-earth elements and yttrium. Ore Geology Reviews 119, 103392, https://doi.org/10.1016/j.oregeorev.2020.103392, 2020.
+16. Tanaka, E., Nakamura, K., Yasukawa, K., <u><b>Mimura, K.</b></u>, Fujinaga, K., Iijima, K., Nozaki, T., Kato, Y.: Chemostratigraphy of deep-sea sediments in the western North Pacific Ocean: Implications for genesis of mud highly enriched in rare-earth elements and yttrium. Ore Geology Reviews 119, 103392, https://doi.org/10.1016/j.oregeorev.2020.103392, 2020.
 
-16. <u><b>Mimura, K.</b></u>, Nakamura, K., Yasukawa, K., Machida, S., Ohta, J., Fujinaga, K., Kato, Y.: Significant impacts of pelagic clay on average chemical composition of subducting sediments: New insights from discovery of extremely rare-earth elements and yttrium-rich mud at Ocean Drilling Program Site 1149 in the western North Pacific Ocean. Journal of Asian Earth Sciences 186, 104059, https://doi.org/10.1016/j.jseaes.2019.104059, 2019.
+17. <u><b>Mimura, K.</b></u>, Nakamura, K., Yasukawa, K., Machida, S., Ohta, J., Fujinaga, K., Kato, Y.: Significant impacts of pelagic clay on average chemical composition of subducting sediments: New insights from discovery of extremely rare-earth elements and yttrium-rich mud at Ocean Drilling Program Site 1149 in the western North Pacific Ocean. Journal of Asian Earth Sciences 186, 104059, https://doi.org/10.1016/j.jseaes.2019.104059, 2019.
 
-17. Yasukawa, K., Ohta, J., <u><b>Mimura, K.</b></u>, Tanaka, E., Takaya, Y., Usui, Y., Fujinaga, K., Machida, S., Nozaki, T., Iijima, K., Nakamura, K. and Kato, Y.: A new and prospective resource for scandium: Evidence from the geochemistry of deep-sea sediment in the western North Pacific Ocean. Ore Geology Reviews 102, 260-267, https://doi.org/10.1016/j.oregeorev.2018.09.001, 2018.
+18. Yasukawa, K., Ohta, J., <u><b>Mimura, K.</b></u>, Tanaka, E., Takaya, Y., Usui, Y., Fujinaga, K., Machida, S., Nozaki, T., Iijima, K., Nakamura, K. and Kato, Y.: A new and prospective resource for scandium: Evidence from the geochemistry of deep-sea sediment in the western North Pacific Ocean. Ore Geology Reviews 102, 260-267, https://doi.org/10.1016/j.oregeorev.2018.09.001, 2018.
 
 <br>
 
-# Preprints (not peer-reviewed)
-
-1. <u><b>Mimura, K.</b></u>, Kitazawa, T., Nakamura, K., Yasukawa, K., Kuwahara, Y., Ohta, J. and Kato, Y. Deep-sea rare-earth mineral resources formed in the early Eocene Hothouse ocean: Insights from deep learning-based microfossil observations. ESS Open Archive. June 10, 2024. https://doi.org/10.22541/essoar.171804943.38756240/v1, 2024
-
-<br>
+<!-- # Preprints (not peer-reviewed) -->
+<!-- <br> -->
 
 # Datasets
 1. <u><b>Mimura, K.</b></u>, Nakamura, K., Yasukawa, K., Sibert, E.C., Ohta, J., Kitazawa, T.,Kato, Y.: Image datasets for training, validating and testing deep learning models to detect microfossil fish teeth and denticles called ichthyolith using YOLOv7. figshare. Dataset. https://doi.org/10.6084/m9.figshare.22736609.v1, 2023.
@@ -234,6 +234,10 @@ ORCID:
 1. [AI研究の最新知見、ミクロな化石の鑑定で成果 (2025/3/6)](https://www.aist.go.jp/aist_j/press_release/pr2025/pr20250306_2/pr20250306_2.html)
    
 2. [海洋マントルの有機炭素検出　―南太平洋アイツタキ島マントル捕獲岩からのアプローチ― (2024/8/6)](https://www.aori.u-tokyo.ac.jp/research/news/2024/20240806.html)
+
+# 報道等
+1. [砂粒分析、AIとロボで飛躍 (有料記事)](https://www.asahi.com/articles/DA3S16191652.html) 2025年4月11日、朝日新聞朝刊
+
 
 # 受賞歴
 
