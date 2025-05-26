@@ -14,7 +14,7 @@ ORCID:
 
 # 目次 / Contents
 - <a href="#査読付き論文--peer-reviewed-papers">査読付き論文 / Peer-reviewed Papers</a>
-<!-- - <a href="#Preprints">Preprints (under review)</a> -->
+- <a href="#Preprints">Preprints</a>
 - <a href="#Datasets">Datasets</a>
 - <a href="#国際学会での発表--Presentations-at-International-Conferences">国際学会での発表 / Presentations at International Conferences</a>
 - <a href="#国内学会での発表筆頭">国内学会での発表（筆頭）</a>
@@ -32,7 +32,7 @@ ORCID:
 
 # 査読付き論文 / Peer-reviewed Papers
 
-1. <u><b>Mimura, K.</b></u>, Kitazawa, T., Nakamura, K., Yasukawa, K., Kuwahara, Y., Ohta, J. and Kato, Y. Deep-sea rare-earth mineral resources formed in the early Eocene Hothouse ocean: Insights from deep learning-based microfossil observations. Paleoceanography and Paleoclimatology, 40(4), e2024PA004938, https://doi.org/10.1029/2024PA004938, 2025.
+1. <u><b>Mimura, K.</b></u>, Kitazawa, T., Nakamura, K., Yasukawa, K., Kuwahara, Y., Ohta, J. and Kato, Y. Deep-sea rare-earth mineral resources formed in the early Eocene Hothouse ocean: Insights from deep learning-based microfossil observations. Paleoceanography and Paleoclimatology, 40(4), e2024PA004938, https://doi.org/10.1029/2024PA004938, 2025. [Cover](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1002/palo.21413)
 
 2. <u><b>Mimura, K.</b></u>, Itaki, T., Kataoka, H., Miyakawa., A.: Classifying microfossil radiolarians on fractal pre-trained vision transformers, Scientific Reports, 15, 7189, https://doi.org/10.1038/s41598-025-90988-z, 2025.
 
@@ -42,7 +42,7 @@ ORCID:
    
 5. Nozaki, T., Goto, K. T., Takaya, Y., Shimada, K., Owada, A., Shimoda, G., Kimura, J-I., Chang, Q., Onoue, T, Machida, S., Ishii, T., Shimizu, K., Hirano, N., <u><b>Mimura, K.</b></u>, Yano, M., Ohta, J. and Kato, Y.: Petrography and stratigraphic Os isotopic ages of ferromanganese nodules from the Northwest Pacific east of Minamitorishima Island. Journal of Asian Earth Sciences: X, 11, 100176. https://doi.org/10.1016/j.jaesx.2024.100176, 2024.
 
-6. <u><b>Mimura, K.</b></u>, Nakamura, K., Yasukawa, K., Sibert, E. C., Ohta, J., Kitazawa, T. and Kato, Y. :Applicability of Object Detection to Microfossil Research: Implications From Deep Learning Models to Detect Microfossil Fish Teeth and Denticles Using YOLO-v7. Earth and Space Science, 11(1), e2023EA003122, https://doi.org/10.1029/2023EA003122, 2024. [Cover story](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1002/ess2.1470)
+6. <u><b>Mimura, K.</b></u>, Nakamura, K., Yasukawa, K., Sibert, E. C., Ohta, J., Kitazawa, T. and Kato, Y. :Applicability of Object Detection to Microfossil Research: Implications From Deep Learning Models to Detect Microfossil Fish Teeth and Denticles Using YOLO-v7. Earth and Space Science, 11(1), e2023EA003122, https://doi.org/10.1029/2023EA003122, 2024. [Cover](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1002/ess2.1470)
    
 7. Cendi,  D. P. D., Agangi, A., Idrus, A., Chelle-Michou, C., Lai, C., Ishida, M., Guillong, M., Gonzáles-Álvarez, I., Takahashi, R., Yano, M., <u><b>Mimura, K.</b></u>, Ohta, J., Kato, Y., Simbolon, D. R., Xia, X.: The age and origin of the Ruwai polymetallic skarn deposit, Indonesia: evidence of Cretaceous mineralization in the Central Borneo metallogenic belt. Economic Geology, 118(6), 1341–1370. https://doi.org/10.5382/econgeo.5009, 2023.
 
@@ -70,8 +70,9 @@ ORCID:
 
 <br>
 
-<!-- # Preprints (not peer-reviewed) -->
-<!-- <br> -->
+# Preprints
+1. Genda, T., <u><b>Mimura, K.</b></u>, Nakamura, K., Nakatani, T., Kitada, K., Yasukawa, K., Kato, Y.: Precise Detection of Hydrothermal Emission Signatures from Autonomous Underwater Vehicle Multi-Beam Echo Sounder Images by Deep Learning. TechRxiv, https://doi.org/10.36227/techrxiv.173895078.87591845/v1, 2025.
+<br>
 
 # Datasets
 1. <u><b>Mimura, K.</b></u>, Nakamura, K., Yasukawa, K., Sibert, E.C., Ohta, J., Kitazawa, T.,Kato, Y.: Image datasets for training, validating and testing deep learning models to detect microfossil fish teeth and denticles called ichthyolith using YOLOv7. figshare. Dataset. https://doi.org/10.6084/m9.figshare.22736609.v1, 2023.
