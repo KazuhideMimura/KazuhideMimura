@@ -1,6 +1,6 @@
 # 研究業績 / Kazuhide Mimura's  works
 
-最終更新 / last update: 2025.5.26
+最終更新 / last update: 2025.6.24
 
 ORCID: 
 <a href="https://orcid.org/0000-0002-6411-0378">
@@ -38,7 +38,7 @@ ORCID:
 
 3. Tanaka, E., <u><b>Mimura, K.</b></u>, Ohta, J., Miyazaki, T., Vaglarov, B. S., Yasukawa, K., Nakamura, K., Kato, Y.: Composite ages of pelagic clay enriched in rare-earth elements in the Pacific Ocean based on Sr isotope chemostratigraphy and ichthyolith biostratigraphy, Newsletters on Stratigraphy, 57(3), 359-387, https://doi.org/10.1127/nos/2024/0812, 2024.
 
-4. Akizawa, N., Ishimura, T., Yoshikawa, M., Kogiso, T., Ishikawa, A., <u><b>Mimura, K.</b></u>: Stable carbon and oxygen isotope signatures of mantle-derived calcite in Aitutaki lherzolite xenolith: Implications for organic carbon cycle in the oceanic mantle, Marine Geology, 107363, https://doi.org/10.1016/j.margeo.2024.107363, 2024.
+4. Akizawa, N., Ishimura, T., Yoshikawa, M., Kogiso, T., Ishikawa, A., <u><b>Mimura, K.</b></u>: Stable carbon and oxygen isotope signatures of mantle-derived calcite in Aitutaki lherzolite xenolith: Implications for organic carbon cycle in the oceanic mantle, Marine Geology, 475, 107363, https://doi.org/10.1016/j.margeo.2024.107363, 2024.
    
 5. Nozaki, T., Goto, K. T., Takaya, Y., Shimada, K., Owada, A., Shimoda, G., Kimura, J-I., Chang, Q., Onoue, T, Machida, S., Ishii, T., Shimizu, K., Hirano, N., <u><b>Mimura, K.</b></u>, Yano, M., Ohta, J. and Kato, Y.: Petrography and stratigraphic Os isotopic ages of ferromanganese nodules from the Northwest Pacific east of Minamitorishima Island. Journal of Asian Earth Sciences: X, 11, 100176. https://doi.org/10.1016/j.jaesx.2024.100176, 2024.
 
