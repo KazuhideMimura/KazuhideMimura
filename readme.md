@@ -10,8 +10,6 @@ Posts by @KazuhideMimura</a>
 
 # Research / 研究
 
-<a href="https://kazuhidemimura.github.io/">Personal Website</a>
-
 <a href="/research.md">研究業績 / Works</a>
 
 ORCID: 
