@@ -75,7 +75,7 @@ ORCID:
 <br>
 
 # Datasets
-1. <u><b>Mimura, K.</b></u>, Kaneko, J., Nozaki, T., Kasaya, T., Sugimoto, Y., Genda, T., Nakamura, K.: Dataset and trained weights for detecting signatures of seafloor hydrothermal activity at Higashi-Aogashima Knoll Caldera, Mendeley Data, V1, https://doi.org/10.17632/jxn2dvwwht.1
+1. <u><b>Mimura, K.</b></u>, Kaneko, J., Nozaki, T., Kasaya, T., Sugimoto, Y., Genda, T., Nakamura, K.: Dataset and trained weights for detecting signatures of seafloor hydrothermal activity at Higashi-Aogashima Knoll Caldera, Mendeley Data, V1, https://doi.org/10.17632/jxn2dvwwht.1, 2025.
  
 1. <u><b>Mimura, K.</b></u>, Nakamura, K., Yasukawa, K., Sibert, E.C., Ohta, J., Kitazawa, T.,Kato, Y.: Image datasets for training, validating and testing deep learning models to detect microfossil fish teeth and denticles called ichthyolith using YOLOv7. figshare. Dataset. https://doi.org/10.6084/m9.figshare.22736609.v1, 2023.
 
